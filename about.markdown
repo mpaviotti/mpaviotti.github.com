@@ -13,4 +13,4 @@ My Ph.D. thesis was on `Denotational Semantics in Synthetic Guarded Domain Theor
 
 
 [func-group]:https://fp.doc.ic.ac.uk
-[phdthesis]:/assets/pdfs/paviotti-thesis.pdf
+[phdthesis]:/assets/papers/paviotti-phdthesis.pdf
