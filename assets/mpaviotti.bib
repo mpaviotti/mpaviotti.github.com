@@ -7,7 +7,7 @@
   series    = {Lecture Notes in Computer Science},
   year      = {2022},
   abstract  = {Algebraic effects offer a versatile framework that covers a wide variety of effects. However, the family of operations that delimit scopes are not algebraic and are usually modelled as handlers, thus pre- venting them from being used freely in conjunction with algebraic oper- ations. Although proposals for scoped operations exist, they are either ad-hoc and unprincipled, or too inconvenient for practical programming. This paper provides the best of both worlds: a theoretically-founded model of scoped effects that is convenient for implementation and rea- soning. Our new model is based on an adjunction between a locally finitely presentable category and a category of functorial algebras. Using comparison functors between adjunctions, we show that our new model, an existing indexed model, and a third approach that simulates scoped operations in terms of algebraic ones have equal expressivity for han- dling scoped operations. We consider our new model to be the sweet spot between ease of implementation and structuredness. Additionally, our approach automatically induces fusion laws of handlers of scoped effects, which are useful for reasoning and optimisation.}
-  }
+}
 
 @inproceedings{DBLP:conf/esop/PaviottiCPWOB20,
   author    = {Marco Paviotti and
@@ -27,7 +27,7 @@
   pages     = {599--625},
   publisher = {Springer},
   year      = {2020},
-  url       = {https://doi.org/10.1007/978-3-030-44914-8\_22},
+  url       = {https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf},
   doi       = {10.1007/978-3-030-44914-8\_22},
   timestamp = {Fri, 14 May 2021 08:34:21 +0200},
   biburl    = {https://dblp.org/rec/conf/esop/PaviottiCPWOB20.bib},
@@ -45,7 +45,7 @@
   number    = {3},
   pages     = {465--510},
   year      = {2019},
-  url       = {https://doi.org/10.1017/S0960129518000087},
+  url       = {/assets/papers/mscs19.pdf},
   doi       = {10.1017/S0960129518000087},
   timestamp = {Wed, 01 Apr 2020 08:48:51 +0200},
   biburl    = {https://dblp.org/rec/journals/mscs/MogelbergP19.bib},
@@ -61,12 +61,34 @@
   volume    = {94},
   pages     = {1--14},
   year      = {2018},
-  url       = {https://doi.org/10.1016/j.jlamp.2017.09.004},
+  url       = {/assets/papers/jlamp17.pdf},
   doi       = {10.1016/j.jlamp.2017.09.004},
   timestamp = {Sat, 22 Feb 2020 19:18:11 +0100},
   biburl    = {https://dblp.org/rec/journals/jlp/PaviottiB18.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  abstract = {Exceptions in low-level architectures are implemented as synchronous interrupts: upon the execution of a faulty instruction the processor jumps to a piece of code that handles the error. Previous work has shown that assembly programs can be written, verified and run using higher-order separation logic [14]. However, execution of faulty instructions is then specified as either being undefined or terminating with an error. In this paper, we study synchronous interrupts and show their usefulness by implementing a memory allocator. This shows that it is indeed possible to write positive specifications of programs that fault. All of our results are mechanised in the interactive proof assistant Coq.}
+  abstract = {Exceptions in low-level architectures are implemented as synchronous interrupts: upon 
+  the execution of a faulty instruction the processor jumps to a piece of code that handles the error. 
+  Previous work has shown that assembly programs can be written, verified and run using higher-order 
+  separation logic [14]. However, execution of faulty instructions is then specified as either being 
+  undefined or terminating with an error. In this paper, we study synchronous interrupts and show 
+  their usefulness by implementing a memory allocator. This shows that it is indeed possible to 
+  write positive specifications of programs that fault. All of our results are mechanised in the 
+  interactive proof assistant Coq.}
+}
+
+
+@phdthesis{phdthesis,
+  author       = {Marco Paviotti}, 
+  title        = {Denotational semantics in Synthetic Guarded Domain Theory},
+  booktitle     = {Ph.D. thesis},
+  publisher       = {IT University of Copenhagen, Denmark},
+  year         = 2016,
+  url          = {/assets/papers/paviotti-phdthesis.pdf},
+  abstract = {
+In functional programming, features such as recursion, recursive types and general references are central. To define semantics of this kind of lan- guages one needs to come up with certain definitions which may be non- trivial to show well-defined. This is because they are circular. Domain theory has been used to solve this kind of problems for specific languages, unfortunately, this technique does not scale for more featureful languages, which prevented it from being widely used.
+Step-indexing is a more general technique that has been used to break circularity of definitions. The idea is to tweak the definition by adding a well- founded structure that gives a handle for recursion. Guarded dependent Type Theory (gDTT) is a type theory which implements step-indexing via a unary modality used to guard recursive definitions. Every circular definition is well-defined as long as the recursive variable is guarded.
+In this thesis we show that gDTT is a natural setting to give denotational semantics of typed functional programming languages with recursion and recursive types. We formulate operational semantics and denotational semantics and prove computational adequacy entirely inside the type theory. Furthermore, our interpretation is synthetic: types are interpreted as types in the type theory and programs as type-theoretical terms. Moreover, work- ing directly in gDTT has advantages compared with existing set-theoretic models.
+Finally, this work builds the foundations for doing denotational seman- tics of languages with much more challenging features, for example, of general references for which denotational techniques were previously be- yond reach.}
 }
 
 @inproceedings{DBLP:conf/lics/MogelbergP16,
@@ -82,7 +104,7 @@
   pages     = {317--326},
   publisher = {{ACM}},
   year      = {2016},
-  url       = {https://doi.org/10.1145/2933575.2934516},
+  url       = {/assets/papers/lics16.pdf},
   doi       = {10.1145/2933575.2934516},
   timestamp = {Wed, 11 Aug 2021 11:51:25 +0200},
   biburl    = {https://dblp.org/rec/conf/lics/MogelbergP16.bib},
@@ -106,13 +128,27 @@ All constructions and reasoning in this paper, including proofs of theorems such
   pages     = {333--349},
   publisher = {Elsevier},
   year      = {2015},
-  url       = {https://doi.org/10.1016/j.entcs.2015.12.020},
+  url       = {/assets/papers/mfps15.pdf},
   doi       = {10.1016/j.entcs.2015.12.020},
   timestamp = {Mon, 08 Feb 2021 13:26:28 +0100},
   biburl    = {https://dblp.org/rec/journals/entcs/PaviottiMB15.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}, 
   abstract = {Guarded recursion is a form of recursion where recursive calls are guarded by delay modalities. Previous work has shown how guarded recursion is useful for constructing logics for reasoning about programming languages with advanced features, as well as for constructing and reasoning about elements of coinductive types. In this paper we investigate how type theory with guarded recursion can be used as a metalanguage for denotational semantics useful both for constructing models and for proving properties of these. We do this by constructing a fairly intensional model of PCF and proving it computationally adequate. The model construction is related to Escardo’s metric model for PCF, but here everything is carried out entirely in type theory with guarded recursion, including the formulation of the operational semantics, the model construction and the proof of adequacy.}
 }
+
+
+@inproceedings{MiculanP13,
+  author    = {Marino Miculan and
+               Marco Paviotti},
+  title     = {Extraction of certified programs with effects from proofs with monadic types in Coq},
+  booktitle = {Manuscript},
+  year      = {2013},
+  url       = {/assets/papers/statesynt13.pdf},
+  abstract = {We present a methodology for the extraction of certified pro- grams with effects, using the Coq proof assistant and monadic types. First, we define in the Calculus of Inductive Constructions an abstract global store monad, by suitably adapting Plotkin-Power’s sound and com- plete axiomatization. This monad gives raise to monadic types which can be used for the specifications of imperative programs in Coq. From the (constructive) proofs of these specifications, using Coq’s Extraction fa- cility we can extract programs in a computational metalanguage CompML, which is basically the functional fragment of ML extended with the monad’s operators.
+In order to obtain executable code, we define a back-end compiler from CompML to the target language, i.e. ML in our case. A program in CompML is translated to executable ML code by replacing monadic con- structors with the corresponding SML operations. The back-end compiler is proved to be correct, by formally proving that it respects the axiomati- zation of the global store monad. Hence, the code it produces is certified. This methodology can be ported to other computational aspects, by suitably adapting the monadic type theory and the back-end compiler, as long as the target language can be given a formal semantics in Coq.}
+}
+
+
 
 @inproceedings{DBLP:conf/itp/MiculanP12,
   author    = {Marino Miculan and
@@ -127,7 +163,7 @@ All constructions and reasoning in this paper, including proofs of theorems such
   pages     = {183--200},
   publisher = {Springer},
   year      = {2012},
-  url       = {https://doi.org/10.1007/978-3-642-32347-8\_13},
+  url       = {/assets/papers/itp12.pdf},
   doi       = {10.1007/978-3-642-32347-8\_13},
   timestamp = {Tue, 29 Dec 2020 18:37:35 +0100},
   biburl    = {https://dblp.org/rec/conf/itp/MiculanP12.bib},
