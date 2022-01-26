@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The first post!"
+date:   2022-01-26 14:36:21 +0000
+categories: jekyll update
+---
+
+Hello! It is with this post that I intend to start my own blog on all the topics that we all like and adore. Amongst these I hope I will find time to write more about `Recursion Schemes`, `Denotational semantics`, `Category Theory`, `Functional programming` and `Type Theory`. 
+
+I finally decided to spend some time writing down what is inside my head (well, not all of it.. ) with the hope that someone would be interested in it.
+Hopefully this will help me to fix some concepts in my head and you to get acquainted with some of what it is commonly referred to as "abstract nonsense". 
+
+I should thank [Nick][nick-wu] for suggesting to start blooogging  and [Hrutvik][hrutvik-kanabar] for helping me with the Jekyll setup which is.. admittedly.. a nightmare!
+
+Enjoy!
+
+[nick-wu]: https://zenzike.com
+[hrutvik-kanabar]:   https://hrutvik.co.uk
