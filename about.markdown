@@ -4,16 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hello! 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am currently a postdoc researcher (RA) at Imperial College London in the [Functional Programming group][func-group] working on Scoped Contextual Operations and Effects and Visiting Researcher at University of Kent. 
+I was formerly an RA at University of Kent and a Ph.D. student at IT University of Copenhagen.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am interested in semantics of programming languages, functional programming, recursion schemes, category theory, mathematical logic and type theory.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My Ph.D. thesis was on `Denotational Semantics in Synthetic Guarded Domain Theory`, which can be found [here][phdthesis]
 
 
-[jekyll-organization]: https://github.com/jekyll
+[func-group]:https://fp.doc.ic.ac.uk
+[phdthesis]:/assets/pdfs/paviotti-thesis.pdf
