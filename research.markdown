@@ -57,25 +57,8 @@ The later modality is essentially an abstract device to talk about step-indexed 
 
 The easiest example of the use of guarded recursion is the guarded streams defined as the *unique* solution to the following equation
 
-$$ \text{Str}^{g} A = A \times \blacktriangleright \text{Str}^{g}$$
+$$ \text{Str}^{g} A = A \times \blacktriangleright \text{Str}^{g} A$$
 
 The intuitive meaning of this type is that while the head of the stream is available now, 
 the tail of the stream is available only after one step of computation. 
-
-In Agda, we can implement this data type as a dependent type 
- 
- {% highlight agda %}
-
-▹ : (ℕ → Set) → (ℕ → Set)
-▹ X zero = ⊤
-▹ X (suc n) = X n
-
-_×ω_ : (ℕ → Set) → (ℕ → Set) → ℕ → Set
-X ×ω Y = λ n → (X n) × (Y n)
-
-
-{-# TERMINATING #-}
-gStr : (ℕ → Set) → ℕ → Set
-gStr A = A ×ω (▹ (gStr A))
-
-{% endhighlight %}
+The end result is that productivity for elements of $$\text{Str}^{g}$$ is guaranteed by the type system. 
