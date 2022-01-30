@@ -10,8 +10,7 @@ into a mathematical object called a *semantic domain* $$\mathcal{D}$$
 
 $$[\![\cdot ]\!] : \mu \Sigma \to \mathcal{D}$$
 
-such that the interpretation has to be agnostic to step reductions (`Soundness`) and that if it equates programs in the model then these program are observationally indistinguishable (`Computational Adequacy`). 
-Furthermore, a semantics that equates exactly the programs that are observationally indistinguishable is called `Fully Abstract`. 
+This function interprets programs into their mathematical meaning and it is furthermore characterised by two additional properties. The first is that the interpretation has to be agnostic to step reductions (`Soundness`) and the second is that it equates programs whenever they are observationally indistinguishable (`Computational Adequacy`). Furthermore, a semantics that equates exactly the programs that are observationally indistinguishable is called `Fully Abstract`. 
 
 The theory was first invented by Christopher Strachey and Dana Scott between 1969 and 1971. The best introduction to these topics is probably [Thomas Streicher's book](https://www.amazon.co.uk/Domain-Theoretic-Foundations-Functional-Programming-Streicher/dp/9812701427).
 
