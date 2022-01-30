@@ -13,7 +13,8 @@ $$[\![\cdot ]\!] : \mu \Sigma \to \mathcal{D}$$
 such that the interpretation has to be agnostic to step reductions (`Soundness`) and that if it equates programs in the model then these program are observationally indistinguishable (`Computational Adequacy`). 
 Furthermore, a semantics that equates exactly the programs that are observationally indistinguishable is called `Fully Abstract`. 
 
-The theory was first invented by [Dana Scott in 1969](https://www.cs.cmu.edu/~crary/819-f09/Scott93.pdf) and [Gordon Plotkin in 1977](https://www.sciencedirect.com/science/article/pii/0304397577900445). Although Thomas Streicher's [book](https://www.amazon.co.uk/Domain-Theoretic-Foundations-Functional-Programming-Streicher/dp/9812701427) is probably one of the best books on the denotational semantics.
+The theory was first invented by Christopher Strachey and Dana Scott between 1969 and 1971. The best introduction to these topics is probably [Thomas Streicher's book](https://www.amazon.co.uk/Domain-Theoretic-Foundations-Functional-Programming-Streicher/dp/9812701427).
+
 
 # Recursion Schemes 
 A recursion scheme is a structuring device that ensures that recursive definitions are well-defined. 
