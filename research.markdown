@@ -4,6 +4,18 @@ permalink: /research/
 title: Research
 ---
 
+My research is based on idea of "Computational Trilogy" or "Computational Trinity" and it is the profound insight dating back to the '70s that `Inuitionistic Logic`, `Category Theory` and `Computability` are essentially "three sides" of the same coin.
+
+Consider a function that takes an input of type $$A$$ and produces an output of type $$B$$
+
+$$f : A \to B$$ 
+
+This function can be viewed both as a computable function, which is representable via the $$\lambda$$-calculus and as a **proof** that $$A$$ implies $$B$$. In category theory $$f$$ can be viewed as a morphism between the objects $$A$$ and $$B$$.
+
+Thus, under some restrictions, functional programming viewed as a type theory, intuitionistic logic and category theory 
+are three different mathematical subjects that describe the same idea. 
+
+
 # Denotational Semantics
 A denotational semantics is a *compositional* interpretation function of the syntax of a programming language $$\mu \Sigma$$
 into a mathematical object called a *semantic domain* $$\mathcal{D}$$ 

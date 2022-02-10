@@ -4,9 +4,9 @@
 layout: page
 ---
 
-I am currently a postdoc researcher (RA) at Imperial College London in the [Functional Programming group][func-group] and Visiting Researcher at University of Kent where I was previously an RA.
+I am currently a postdoc researcher (RA) at Imperial College London (UK) in the [Functional Programming group][func-group] and Visiting Researcher at University of Kent where I was previously an RA.
 
-I did my Ph.D. at ITU Copenhagen in 2016, Denmark, on [Denotational Semantics in Synthetic Guarded Domain Theory][phdthesis]. I also spent six months of my Ph.D. at Aarhus University within the Logic and Semantics Group. 
+I did my Ph.D. at ITU Copenhagen (Denmark) in 2016 on [Denotational Semantics in Synthetic Guarded Domain Theory][phdthesis]. I also spent six months of my Ph.D. at Aarhus University within the Logic and Semantics Group. 
 
 I am interested in semantics of programming languages, functional programming, recursion schemes, category theory, mathematical logic and type theory. 
 
