@@ -12,7 +12,7 @@ $$f : A \to B$$
 
 This function can be viewed both as a computable function, which is representable via the $$\lambda$$-calculus and as a **proof** that $$A$$ implies $$B$$. In category theory $$f$$ can be viewed as a morphism between the objects $$A$$ and $$B$$.
 
-Thus, under some restrictions, functional programming viewed as a type theory, intuitionistic logic and category theory 
+Thus, under some restrictions, total functional programming, intuitionistic logic and category theory 
 are three different mathematical subjects that describe the same idea. 
 
 
