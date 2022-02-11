@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-My research is based on idea of "*Computational Trilogy*" or "*Computational Trinity*" which is a profound insight dating back to the '70s that `Intuitionistic Logic`, `Category Theory` and `Computability` are essentially "three sides" of the same coin.
+My research is based on idea of "*Computational Trinity*" which is a profound insight dating back to the '70s that `Intuitionistic Logic`, `Category Theory` and `Computability` are essentially "three sides" of the same coin.
 
 Consider a function that takes an input of type $$A$$ and produces an output of type $$B$$
 
@@ -17,8 +17,7 @@ are three different mathematical subjects that describe the same idea.
 
 
 # Denotational Semantics
-A denotational semantics is a *compositional* interpretation function of the syntax of a programming language $$\mu \Sigma$$
-into a mathematical object called a *semantic domain* $$\mathcal{D}$$ 
+A denotational semantics is a *compositional* interpretation function of the syntax of a programming language $$\mu \Sigma$$ into a mathematical object called a *semantic domain* $$\mathcal{D}$$ 
 
 $$[\![\cdot ]\!] : \mu \Sigma \to \mathcal{D}$$
 
