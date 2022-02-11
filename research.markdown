@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-My research is based on idea of "Computational Trilogy" or "Computational Trinity" and it is the profound insight dating back to the '70s that `Inuitionistic Logic`, `Category Theory` and `Computability` are essentially "three sides" of the same coin.
+My research is based on idea of "*Computational Trilogy*" or "*Computational Trinity*" which is a profound insight dating back to the '70s that `Intuitionistic Logic`, `Category Theory` and `Computability` are essentially "three sides" of the same coin.
 
 Consider a function that takes an input of type $$A$$ and produces an output of type $$B$$
 
