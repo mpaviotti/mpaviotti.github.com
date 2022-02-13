@@ -18,13 +18,14 @@ While these are interesting subjects on their own, they also have **practical ap
 As of today, `Haskell` is probably one of the most succesful examples of how Category Theory influenced the design of a programming language and how it is continuing to inspire programming devices, e.g `Recursion Schemes`, to structure programs even further ensuring these have well-understood safety properties.
 
 # Denotational Semantics
+The intuition that *programs* of type $$A \to B$$ should be regarded as *functions and *types* should be regarded as "*objects*" is due to Dana Scott via a *Denotational interpretation*.
 A denotational semantics is a *compositional* interpretation function of the syntax of a programming language $$\mu \Sigma$$ into a mathematical object called a *semantic domain* $$\mathcal{D}$$ 
 
 $$[\![\cdot ]\!] : \mu \Sigma \to \mathcal{D}$$
 
 This function is furthermore characterised by two additional properties. The first is called `Soundness` and it states that the interpretation has to be agnostic to step reductions. The second is called `Computational Adequacy`  which states that if two programs are equated then they are observationally indistinguishable. Furthermore, a semantics that equates exactly the programs that are observationally indistinguishable is called `Fully Abstract`. 
 
-The theory was first invented by Christopher Strachey and Dana Scott between 1969 and 1971. The best introduction to these topics is probably [Thomas Streicher's book](https://www.amazon.co.uk/Domain-Theoretic-Foundations-Functional-Programming-Streicher/dp/9812701427).
+The theory was developed by Christopher Strachey and Dana Scott between 1969 and 1971. The best introduction to these topics is probably [Thomas Streicher's book](https://www.amazon.co.uk/Domain-Theoretic-Foundations-Functional-Programming-Streicher/dp/9812701427).
 
 
 # Recursion Schemes 
