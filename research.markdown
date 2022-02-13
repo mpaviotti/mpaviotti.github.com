@@ -13,7 +13,9 @@ $$f : A \to B$$
 This program can be also viewed as a **proof** that $$A$$ implies $$B$$ and as a morphism between the objects $$A$$ and $$B$$. Thus total functional programming, intuitionistic logic and category theory 
 are three different mathematical subjects that describe the same idea. 
 
-My focus is on the correpondence between Functional programming and Category theory which is given in terms of denotational semantics. 
+While these are interesting subjects on their own, they also have **practical applications** in `structuring functional programs`, `formal verification` and in the `design` of the next generation of programming languages.
+
+As of today, `Haskell` is probably one of the most succesful examples of how Category Theory influenced the design of a programming language and how it is continuing to inspire programming devices, e.g `Recursion Schemes`, to structure programs even further ensuring these have well-understood safety properties.
 
 # Denotational Semantics
 A denotational semantics is a *compositional* interpretation function of the syntax of a programming language $$\mu \Sigma$$ into a mathematical object called a *semantic domain* $$\mathcal{D}$$ 
