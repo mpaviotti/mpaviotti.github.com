@@ -15,7 +15,7 @@ are three different mathematical subjects that describe the same idea.
 
 While these are interesting subjects on their own, they also have **practical applications** in `structuring functional programs`, `formal verification` and in the `design` of the next generation of programming languages.
 
-As of today, `Haskell` is probably one of the most succesful examples of how Category Theory influenced the design of a programming language and how it is continuing to inspire new programming techniques, e.g `Recursion Schemes`, to structure programs even further thus ensuring these have well-understood safety properties.
+As of today, `Haskell` is probably one of the most successful examples of how Category Theory influenced the design of a programming language and how it is continuing to inspire new programming techniques, e.g `Recursion Schemes`, to structure programs even further thus ensuring these have well-understood safety properties.
 
 # Denotational Semantics
 The intuition that *programs* of type $$A \to B$$ should be regarded as *functions* and *types* should be regarded as "*mathematical objects*" is due to Dana Scott via a *Denotational interpretation*.
