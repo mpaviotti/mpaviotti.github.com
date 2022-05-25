@@ -28,8 +28,9 @@ The list of publications has been automatically generated from this [bibtex file
       <pre><span class="bibtexraw"></span></pre>
     </div>
   </details>
-  <br><br>
+  
   -->
+  <br>
 </div>
 
 <div id="bibtex_display"></div>
