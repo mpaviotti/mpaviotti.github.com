@@ -18,7 +18,7 @@ The list of publications has been automatically generated from this [bibtex file
   <div class="if !journal" style="font-style: italic;">
     <span class="booktitle" style="font-style: italic;"></span>, <span class="year"></span>, <span class="publisher"></span>.
   </div>
-  <details class="pub-details">
+<!--  <details class="pub-details">
     <summary>Abstract</summary>
     <blockquote><span class="abstract"></span></blockquote>
   </details>
@@ -29,6 +29,7 @@ The list of publications has been automatically generated from this [bibtex file
     </div>
   </details>
   <br><br>
+  -->
 </div>
 
 <div id="bibtex_display"></div>
