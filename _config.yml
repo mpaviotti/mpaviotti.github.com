@@ -29,11 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 
 minima:
-  skin: dark
+  skin: classic
   social_links:
     # twitter: jekyllrb
-    github: m.paviotti
-    linkedin: linkedin.com/in/paviottimarco
+    github: mpaviotti
+    linkedin: paviottimarco
     orcid: 0000-0002-1513-0807
 
 # Build settings
