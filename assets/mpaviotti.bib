@@ -1,14 +1,24 @@
-@inproceedings{esop22,
-  author    = {Zhixuan Yang and Marco Paviotti and Nicolas Wu and Birthe van den Berg and Tom Schrijvers},
+@inproceedings{DBLP:conf/esop/YangPWBS22,
+  author    = {Zhixuan Yang and
+               Marco Paviotti and
+               Nicolas Wu and
+               Birthe van den Berg and
+               Tom Schrijvers},
+  editor    = {Ilya Sergey},
   title     = {Structured Handling of Scoped Effects},
-  url       = {https://arxiv.org/abs/2201.10287},
-  published = {To appear},
-  booktitle = {European Symposium on Programming, {ESOP} 2022},
+  booktitle = {31st European Symposium on Programming,
+               {ESOP} },
   series    = {Lecture Notes in Computer Science},
+  volume    = {13240},
+  pages     = {462--491},
+  publisher = {Springer},
   year      = {2022},
-  abstract  = {Algebraic effects offer a versatile framework that covers a wide variety of effects. However, the family of operations that delimit scopes are not algebraic and are usually modelled as handlers, thus pre- venting them from being used freely in conjunction with algebraic oper- ations. Although proposals for scoped operations exist, they are either ad-hoc and unprincipled, or too inconvenient for practical programming. This paper provides the best of both worlds: a theoretically-founded model of scoped effects that is convenient for implementation and rea- soning. Our new model is based on an adjunction between a locally finitely presentable category and a category of functorial algebras. Using comparison functors between adjunctions, we show that our new model, an existing indexed model, and a third approach that simulates scoped operations in terms of algebraic ones have equal expressivity for han- dling scoped operations. We consider our new model to be the sweet spot between ease of implementation and structuredness. Additionally, our approach automatically induces fusion laws of handlers of scoped effects, which are useful for reasoning and optimisation.}
+  url       = {https://doi.org/10.1007/978-3-030-99336-8\_17},
+  doi       = {10.1007/978-3-030-99336-8\_17},
+  timestamp = {Fri, 29 Apr 2022 14:50:41 +0200},
+  biburl    = {https://dblp.org/rec/conf/esop/YangPWBS22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-
 @inproceedings{DBLP:conf/esop/PaviottiCPWOB20,
   author    = {Marco Paviotti and
                Simon Cooksey and
@@ -18,10 +28,7 @@
                Mark Batty},
   editor    = {Peter M{\"{u}}ller},
   title     = {Modular Relaxed Dependencies in Weak Memory Concurrency},
-  booktitle = {Programming Languages and Systems - 29th European Symposium on Programming,
-               {ESOP} 2020, Held as Part of the European Joint Conferences on Theory
-               and Practice of Software, {ETAPS} 2020, Dublin, Ireland, April 25-30,
-               2020, Proceedings},
+  booktitle = {29th European Symposium on Programming, {ESOP}},
   series    = {Lecture Notes in Computer Science},
   volume    = {12075},
   pages     = {599--625},
@@ -40,11 +47,12 @@
                Marco Paviotti},
   title     = {Denotational semantics of recursive types in synthetic guarded domain
                theory},
-  journal   = {Math. Struct. Comput. Sci.},
+  journal   = {Math. Struct. Comput. Sci., {MSCS}},
   volume    = {29},
   number    = {3},
   pages     = {465--510},
   year      = {2019},
+  publisher = {Cambridge University Press},
   url       = {/assets/papers/mscs19.pdf},
   doi       = {10.1017/S0960129518000087},
   timestamp = {Wed, 01 Apr 2020 08:48:51 +0200},
@@ -57,8 +65,9 @@
   author    = {Marco Paviotti and
                Jesper Bengtson},
   title     = {Formally verifying exceptions for low-level code with separation logic},
-  journal   = {J. Log. Algebraic Methods Program.},
+  journal   = {Journal of Logical and Algebraic Methods in Programming, {JLAMP}},
   volume    = {94},
+  publisher = {Elsevier},
   pages     = {1--14},
   year      = {2018},
   url       = {/assets/papers/jlamp17.pdf},
@@ -100,7 +109,7 @@ Finally, this work builds the foundations for doing denotational seman- tics of 
   title     = {Denotational semantics of recursive types in synthetic guarded domain
                theory},
   booktitle = {Proceedings of the 31st Annual {ACM/IEEE} Symposium on Logic in Computer
-               Science, {LICS} '16, New York, NY, USA, July 5-8, 2016},
+               Science, {LICS}},
   pages     = {317--326},
   publisher = {{ACM}},
   year      = {2016},
@@ -122,7 +131,7 @@ All constructions and reasoning in this paper, including proofs of theorems such
   editor    = {Dan R. Ghica},
   title     = {A Model of {PCF} in Guarded Type Theory},
   booktitle = {The 31st Conference on the Mathematical Foundations of Programming
-               Semantics, {MFPS} 2015, Nijmegen, The Netherlands, June 22-25, 2015},
+               Semantics, {MFPS}},
   series    = {Electronic Notes in Theoretical Computer Science},
   volume    = {319},
   pages     = {333--349},
@@ -141,8 +150,9 @@ All constructions and reasoning in this paper, including proofs of theorems such
   author    = {Marino Miculan and
                Marco Paviotti},
   title     = {Extraction of certified programs with effects from proofs with monadic types in Coq},
-  booktitle = {Manuscript},
+  booktitle = {Unpublished Manuscript},
   year      = {2013},
+  publisher = {Draft},
   url       = {/assets/papers/statesynt13.pdf},
   abstract = {We present a methodology for the extraction of certified pro- grams with effects, using the Coq proof assistant and monadic types. First, we define in the Calculus of Inductive Constructions an abstract global store monad, by suitably adapting Plotkin-Power’s sound and com- plete axiomatization. This monad gives raise to monadic types which can be used for the specifications of imperative programs in Coq. From the (constructive) proofs of these specifications, using Coq’s Extraction fa- cility we can extract programs in a computational metalanguage CompML, which is basically the functional fragment of ML extended with the monad’s operators.
 In order to obtain executable code, we define a back-end compiler from CompML to the target language, i.e. ML in our case. A program in CompML is translated to executable ML code by replacing monadic con- structors with the corresponding SML operations. The back-end compiler is proved to be correct, by formally proving that it respects the axiomati- zation of the global store monad. Hence, the code it produces is certified. This methodology can be ported to other computational aspects, by suitably adapting the monadic type theory and the back-end compiler, as long as the target language can be given a formal semantics in Coq.}
@@ -156,8 +166,7 @@ In order to obtain executable code, we define a back-end compiler from CompML to
   editor    = {Lennart Beringer and
                Amy P. Felty},
   title     = {Synthesis of Distributed Mobile Programs Using Monadic Types in Coq},
-  booktitle = {Interactive Theorem Proving - Third International Conference, {ITP}
-               2012, Princeton, NJ, USA, August 13-15, 2012. Proceedings},
+  booktitle = {Interactive Theorem Proving - Third International Conference, {ITP}},
   series    = {Lecture Notes in Computer Science},
   volume    = {7406},
   pages     = {183--200},
