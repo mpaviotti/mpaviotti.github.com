@@ -5,7 +5,7 @@ layout: page
 title: Short bio
 ---
 
-
+asd
 <img src="/assets/images/now.jpg" alt="Smiley face" style="float:left;width:150px;height:150px;padding:3px 5px;border:1.5px solid #ccc;margin:20px;"> I am currently Senior Research Associate (senior postdoc) at University of Kent working in the [Granule Project](https://granule-project.github.io). I was previously a Research Associate (RA) and Assistant Supervisor at Imperial College London (UK) in the [Functional Programming group](https://fp.doc.ic.ac.uk) and Visiting Researcher at University of Kent where I was previously an RA. 
 
 I did my Ph.D. at ITU Copenhagen (Denmark) in 2016 on [Denotational Semantics in Synthetic Guarded Domain Theory](/assets/papers/paviotti-phdthesis.pdf). I also spent six months of my Ph.D. at Aarhus University within the Logic and Semantics Group. 
