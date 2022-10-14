@@ -21,9 +21,9 @@
 title: Marco Paviotti
 author:
   name: Marco Paviotti
-  email: m.paviotti@imperial.ac.uk
+  email: m.paviotti@kent.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  I know very little about computer science, but everything I know you will find it here. Hope you enjoy my work! 
+  I know very little about computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -46,6 +46,7 @@ header_pages:
   - publications.markdown 
   - blog.markdown
 
+google_analytics: UA—157401242-1
 
 show_excerpts: true 
 # Exclude from processing.

@@ -5,7 +5,8 @@ title: Research
 ---
 
 My research is based on idea of "*Computational Trinity*" which is a profound insight dating back to the '70s that `Computer Science`, `Intuitionistic Logic` and `Category Theory`  are essentially "three sides" of the same coin.
-
+<!-- https://q.uiver.app/?q=WzAsMyxbMSwwLCJcXGJ1bGxldCJdLFswLDEsIlxcYnVsbGV0Il0sWzIsMSwiXFxidWxsZXQiXSxbMCwxXSxbMSwyXSxbMCwyXV0= -->
+<iframe class="quiver-embed" src="https://q.uiver.app/?q=WzAsMyxbMSwwLCJcXGJ1bGxldCJdLFswLDEsIlxcYnVsbGV0Il0sWzIsMSwiXFxidWxsZXQiXSxbMCwxXSxbMSwyXSxbMCwyXV0=&embed" width="432" height="304" style="border-radius: 8px; border: none;margin:0 auto;display:block;"></iframe>
 Consider a terminating functional program $$f$$ that takes an input of type $$A$$ and produces an output of type $$B$$
 
 $$f : A \to B$$ 
