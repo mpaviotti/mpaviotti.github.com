@@ -46,7 +46,7 @@ header_pages:
   - publications.markdown 
   - blog.markdown
 
-google_analytics: G-PQ75FKNGS
+google_analytics: G-PQ75FKNGSF
 
 show_excerpts: true 
 # Exclude from processing.
