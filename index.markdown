@@ -17,7 +17,9 @@ Kent working Weak Memory Concurrency.
 
 I did my Ph.D. at ITU Copenhagen (Denmark) in 2016 on [Denotational Semantics in Synthetic Guarded Domain Theory](/assets/papers/paviotti-phdthesis.pdf). I also spent six months of my Ph.D. at Aarhus University within the Logic and Semantics Group. 
 
-I am interested in semantics of programming languages, functional programming, recursion schemes, category theory, mathematical logic and type theory. 
+I have a M.Sc. with full honors (cum laude) in Theoretical Computer Science and a B.Sc. in Computer Science from [Università degli Studi di Udine](https://www.uniud.it/it) (Italy).
+
+I am interested in **semantics** of programming languages, functional programming, recursion schemes, **category theory**, mathematical logic and type theory. 
 
 ### News
 - **October 2022:** I accepted a Lectureship at [University of Kent (U.K.)](https://www.kent.ac.uk) within the [School of Computing](https://www.kent.ac.uk/computing)
