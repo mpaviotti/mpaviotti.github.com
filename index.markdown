@@ -8,7 +8,9 @@ title: Short bio
 <img src="/assets/images/now.jpg" alt="Smiley face"
 style="float:left;width:150px;height:150px;padding:3px 5px;border:1.5px solid
 #ccc;margin:20px;"> I am Lecturer in Computer Science at University of Kent
-starting from January 2023. Previously, I was a Senior Research Associate
+starting from January 2023. 
+
+Previously, I was a Senior Research Associate
 (senior postdoc) working in the [Granule
 Project](https://granule-project.github.io). From 2020 to 2022, I have been a Research Associate (RA) and Assistant Supervisor at Imperial College London in the
 [Functional Programming group](https://fp.doc.ic.ac.uk) and Visiting Researcher
