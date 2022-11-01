@@ -12,6 +12,7 @@ I did my Ph.D. at ITU Copenhagen (Denmark) in 2016 on [Denotational Semantics in
 I am interested in semantics of programming languages, functional programming, recursion schemes, category theory, mathematical logic and type theory. 
 
 ### News
+- **October 2022:** I accepted a Lectureship at [University of Kent (U.K.)](https://www.kent.ac.uk) within the [School of Computing](https://www.kent.ac.uk/computing)
 - **April 2022:** I am pleased to announce I will be starting to work in the [Granule Project](https://granule-project.github.io) at University of Kent together with Dr. Dominic Orchard from May 2022. 
 - **April 2022:** I will be giving a talk in the [Logics and Semantics group](https://cs.ioc.ee/lsg/tsem/) at University Of Tallin on the 26th of May '22 about `bialgebras` and `recursion schemes`.
 - **March 2022:** On the 16th of May I will be giving a talk at the [School of Computing](https://www.kent.ac.uk/computing) of University of Kent about `semantics` and `recursion schemes`. Link [here](https://www.kent.ac.uk/events/event/54383/fully-abstract-semantics-with-folds-and-unfolds-marco-paviotti).
