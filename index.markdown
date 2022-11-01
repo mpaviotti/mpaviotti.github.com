@@ -16,7 +16,7 @@ Project](https://granule-project.github.io). From 2020 to 2022, I have been a Re
 at University of Kent. From 2017 and 2020 I have been an RA at University of
 Kent working Weak Memory Concurrency.
 
-I did my Ph.D. at ITU Copenhagen (Denmark) in 2016 on [Denotational Semantics in Synthetic Guarded Domain Theory](/assets/papers/paviotti-phdthesis.pdf). I also spent six months of my Ph.D. at Aarhus University within the Logic and Semantics Group. 
+I did my Ph.D. at [ITU Copenhagen](https://www.itu.dk) (Denmark) in 2016 on [Denotational Semantics in Synthetic Guarded Domain Theory](/assets/papers/paviotti-phdthesis.pdf). I also spent six months of my Ph.D. at Aarhus University within the Logic and Semantics Group. 
 
 I have a M.Sc. with full honors (cum laude) in Theoretical Computer Science and a B.Sc. in Computer Science from [Università degli Studi di Udine](https://www.uniud.it/it) (Italy).
 
