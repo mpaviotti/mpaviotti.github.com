@@ -7,7 +7,7 @@ title: Short bio
 
 <img src="/assets/images/now.jpg" alt="Smiley face"
 style="float:left;width:150px;height:150px;padding:3px 5px;border:1.5px solid
-#ccc;margin:20px;"> I am Lecturer (Assistant Professor) in the [School of Computing](https://www.kent.ac.uk/computing) at [University of Kent (U.K.)](https://www.kent.ac.uk) starting from January 2023. 
+#ccc;margin:20px;"> I am Lecturer (Assistant Professor) within the [School of Computing](https://www.kent.ac.uk/computing) at [University of Kent (U.K.)](https://www.kent.ac.uk) starting from January 2023. 
 
 Previously, I was a Senior Research Associate
 (senior postdoc) working in the [Granule
