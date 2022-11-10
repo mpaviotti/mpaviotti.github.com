@@ -31,7 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   skin: classic
   social_links:
-    # twitter: jekyllrb
+    twitter: m4rk1x
     github: mpaviotti
     linkedin: paviottimarco
     orcid: 0000-0002-1513-0807
@@ -41,8 +41,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages: 
+header_pages:
   - research.markdown
+  - teaching.markdown
   - publications.markdown 
   - blog.markdown
 
