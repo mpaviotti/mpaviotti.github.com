@@ -6,4 +6,4 @@ layout: blog
 title: Blog
 permalink: /blog/
 ---
-I know very little about theoretical computer science, but what I know I write it here. 
+ 
