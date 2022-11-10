@@ -46,7 +46,7 @@ If this category had an initial element $$0$$ it would have at least a bottom
 element $$\bot_0$$. Notice that the subset $$\{\bot_0\}$$ is indeed directed and
 its suprema $$\bigsqcup \{\bot_0\}$$ is $$\bot_0$$ itself. Now if we take any
 other dCPPO $$X$$, any continuous function $$f : 0 \to X$$ will map $$\bot_0$$
-to some $$x \in X$$ and the suprema would be $$\bigsqcup f(0) = \bigsqcup {x} =
+to some $$x \in X$$ and the suprema would be $$\bigsqcup f(0) = \bigsqcup \{x\} =
 x$$. 
 
 > Is this just a coincidence that Scott's model is not trivial? Not really. 
