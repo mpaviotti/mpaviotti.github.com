@@ -89,4 +89,4 @@ endoEmpty = y id === id (y id) -- by Fixed-point property y f = f (y f)
 Is this a problem ? No, this is not a problem because `y id` is the infinite computation. In other words, sends the unit element to $$\bot$$. But since Haskell functions need not to be strict, I can send the $$\bot$$ element in `Empty` to `One ()`. So this map is not an isomorphism.
 
 ### Conclusions
-If you think this is just me rambling about.. well you're proably right. 
+If you think this is just me rambling about.. well you're probably right. 
