@@ -67,7 +67,7 @@ would be equal and therefore operationally equivalent.
 
 Nothing, because Haskell does not have a formal model.
 
-But let's say we make a big leap and took the fragment of Haskell consisting of
+But let's say we make a big leap and take the fragment of Haskell consisting of
 "inductive data types" and recursion. Now I can craft a program that resembles
 what I just said above
 
@@ -106,6 +106,6 @@ For the same reasons, if we know consider System F with a polymorphic fixed-poin
 
 $$ 0 = \forall x . x$$ 
 
-This object has actually an inhabitant: the non-terminating computation. Thus, it is not the intial object.   
+This object has actually an inhabitant: the non-terminating computation. Thus, it is not the initial object.   
 
 But if you instead think this is just me rambling about.. well you're probably right. 
