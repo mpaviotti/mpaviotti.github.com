@@ -57,12 +57,12 @@ $$f \bigsqcup \{\bot_0\} = \bigsqcup f \{\bot_0\} $$
 because, for any $$x \in X$$ we choose for $$f(\bot_0)$$ (even the bottom element), $$\bigsqcup f \{\bot_0\} = \bigsqcup \{x\} = x$$. 
 
 The only way this category had an initial element is if the arrows in the
-category were *strict*, namely they preserved $$\bot$$ elements, but as we have
-seen continuous functions do not necessarily preserve it.
+category were *strict*, namely they preserved $$\bot$$ elements, but, as we have
+seen, continuous functions do not necessarily preserve it.
 
-> Is this just a coincidence that Scott's model is not trivial? Not really. 
+> Is this just a coincidence that Scott's model is not trivial? 
 
-If it was trivial it would break computational adequacy which is the statement
+Not really. Because if it was trivial it would break computational adequacy which is the statement
 that for every pair or well-typed terms in the language $$\Gamma \vdash t : A$$
 and $$\Gamma \vdash t' : A$$
 
