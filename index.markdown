@@ -25,14 +25,18 @@ I have a M.Sc. with full honors (cum laude) in Theoretical Computer Science and
 a B.Sc. in Computer Science from [Università degli Studi di
 Udine](https://www.uniud.it/it) (Italy).
 
+---
+
 I am interested in **semantics** of programming languages, functional
 programming, recursion schemes, **category theory**, mathematical logic and type
 theory. 
 
+---
+
 ### News
 - **November 2022:** We had another [review](https://graymalk.in/iso-papers/p1780/p1780r2.html) submitted to the C++ Standards Committee ([ISOCPP](https://www.open-std.org/jtc1/sc22/wg21/)) for our [weak memory model](https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf)  
-- **October 2022:** I accepted a Lectureship at [University of Kent (U.K.)](https://www.kent.ac.uk) within the [School of Computing](https://www.kent.ac.uk/computing)
-- **April 2022:** I am pleased to announce I will be starting to work in the [Granule Project](https://granule-project.github.io) at University of Kent together with Dr. Dominic Orchard from May 2022. 
+- **October 2022:** I accepted a Lectureship at [University of Kent (U.K.)](https://www.kent.ac.uk) in the [School of Computing](https://www.kent.ac.uk/computing)
+- **April 2022:** I will be starting to work in the [Granule Project](https://granule-project.github.io) at University of Kent together with Dr. Dominic Orchard from May 2022. 
 - **April 2022:** I will be giving a talk in the [Logics and Semantics group](https://cs.ioc.ee/lsg/tsem/) at University Of Tallin on the 26th of May '22 about `bialgebras` and `recursion schemes`.
 - **March 2022:** On the 16th of May I will be giving a talk at the [School of Computing](https://www.kent.ac.uk/computing) of University of Kent about `semantics` and `recursion schemes`. Link [here](https://www.kent.ac.uk/events/event/54383/fully-abstract-semantics-with-folds-and-unfolds-marco-paviotti).
 - **Jan 2022:** [Paper](https://arxiv.org/abs/2201.10287) accepted at [ESOP 22](https://etaps.org/2022/esop) on *Effect handlers for scoped effects* with Z. Yang, N. Wu, B. van den Berg and T. Schrijvers. 
