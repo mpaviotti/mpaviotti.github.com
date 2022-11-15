@@ -34,7 +34,7 @@ theory.
 ---
 
 ### News
-- **November 2022:** We had another [review](https://graymalk.in/iso-papers/p1780/p1780r2.html) submitted to the C++ Standards Committee ([ISOCPP](https://www.open-std.org/jtc1/sc22/wg21/)) for our [weak memory model](https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf)  
+- **November 2022:** The WG21 group reponsible for C++ ISO standard met last week in Kona (HI, USA) where another [review](https://graymalk.in/iso-papers/p1780/p1780r2.html) of our [weak memory model](https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf) was discussed. The WG21 group approved it unanimously as the correct strategy to takle the Out-of-thin-air (OOTA) problem.   
 - **October 2022:** I accepted a Lectureship at [University of Kent (U.K.)](https://www.kent.ac.uk) in the [School of Computing](https://www.kent.ac.uk/computing)
 - **April 2022:** I will be starting to work in the [Granule Project](https://granule-project.github.io) at University of Kent together with Dr. Dominic Orchard from May 2022. 
 - **April 2022:** I will be giving a talk in the [Logics and Semantics group](https://cs.ioc.ee/lsg/tsem/) at University Of Tallin on the 26th of May '22 about `bialgebras` and `recursion schemes`.
@@ -48,5 +48,8 @@ See full list of publications [here]({% link publications.markdown %}).
 
 ### ISO Standards 
 
-- Modular Relaxed Dependencies (MRD) is a prospective model of C++ concurrency (first appeared in [ESOP '20'](https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf)) which is being considered for the next ISO standard of C++. Link to the draft [here](https://graymalk.in/iso-papers/p1780/p1780r2.html). 
+Modular Relaxed Dependencies (MRD) is a prospective model of C++ concurrency (first appeared in [ESOP '20'](https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf)) which is being considered for the next ISO standard of C++. 
+- Link to the draft [here](https://graymalk.in/iso-papers/p1780/p1780r2.html)
+- Link to the WG21 discussion [here](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fcplusplus%2Fpapers%2Fissues%2F554%23issuecomment-1311093994&amp;data=05%7C01%7CM.Paviotti%40kent.ac.uk%7C5e1fff970b0a4039205008dac71af6b3%7C51a9fa563f32449aa7213e3f49aa5e9a%7C0%7C0%7C638041215860503967%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=V1PRIBvid5UxHNvEI2aOq2Rp4Sq9voNbcjb5rCEJ4sk%3D&amp;reserved=0)
+- The WG21 group page : [https://isocpp.org/wiki/faq/wg21](https://isocpp.org/wiki/faq/wg21)
 
