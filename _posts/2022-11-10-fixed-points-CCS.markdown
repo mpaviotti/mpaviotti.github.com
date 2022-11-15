@@ -49,9 +49,12 @@ and that it has an initial object. However,
 This is because if this category had an initial element $$0$$ it would have at least a bottom
 element $$\bot_0$$. Notice that the subset $$\{\bot_0\}$$ is indeed directed and
 its suprema $$\bigsqcup \{\bot_0\}$$ is $$\bot_0$$ itself. Now if we take any
-other dCPPO $$X$$, any continuous function $$f : 0 \to X$$ will map $$\bot_0$$
-to some $$x \in X$$ and the suprema would be $$\bigsqcup f(0) = \bigsqcup \{x\} =
-x$$. 
+other dCPPO $$X$$, a continuous function $$f : 0 \to X$$ that maps $$\bot_{0}$$ to any element $$x \in X$$ 
+will satisfy the equation
+
+$$f \bigsqcup \{\bot_0\} = \bigsqcup f \{\bot_0\} $$
+
+because for any $$x \in X$$ we choose for $$f(\bot_0)$$ (even the bottom element), $$\bigsqcup f \{\bot_0\} = \bigsqcup \{x\} = x$$. 
 
 The only way this category had an initial element is if the arrows in the
 category were *strict*, namely they preserved $$\bot$$ elements, but as we have
