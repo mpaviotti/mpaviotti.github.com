@@ -11,44 +11,51 @@ paper stating that
 
 > Any Cartesian Closed Category (CCC) with an initial object and a fixed-point operator is trivial. 
 
-This involves showing that every object $$A$$ is isomorphic to the terminal object $$1$$. 
+Here the word *trivial* means that every object $$A$$ in the category is isomorphic to the terminal object $$1$$. 
 
-We use the fixed-point operator which exists at all types. 
+To do this proof we make use of the fixed-point operator, which exists at all types. 
 
 We know that for all endomaps $$f : A \to A$$ in the category there exists a map
 $$\text{fix}_{f} : 1 \to A$$ such that $$f \circ \text{fix}_{f} =
-\text{fix}_{f}$$. Thus, we can use the unique endomap on the initial object $$i:
-0 \to 0$$ to get a map $$\text{fix}_{i} : 1 \to 0$$. By initiality, we also have
-a unique map $$! : 0 \to 1 $$ which forms an isomorphism $$0 \cong 1$$.
+\text{fix}_{f}$$. Thus, we can use the unique endomap on the initial object,
+namely the identity map $$id_{0}: 0 \to 0$$, to get a map $$\text{fix}_{id_{0}} :
+1 \to 0$$. But now, because $$0$$ is initial (and $$1$$ is terminal), we also
+have a unique map into the terminal object, namely $$! : 0 \to 1$$. It is easy
+to see that $$\text{fix}_{id_{0}}$$ and $$1$$ are inverses to each other, hence
+they form an isomorphism $$0 \cong 1$$.
+In particular, $$\text{fix}_{id_{0}} \circ ! : 0 \to 0$$ is $$id_{0}$$ by initiality and
+$$! \circ \text{fix}_{id_{0}} : 1 \to 1$$ is $$id_{1}$$ by finality. 
 
 Now we compute as follows. For every object $$A$$ in the category  $$ 1 \cong 0
-\cong 0 \times A \cong 1 \times A \cong A $$ 
+\cong 0 \times A \cong 1 \times A \cong A $$ and the proof is concluded. 
 
-In the paper, the authors show that this is also the case when instead of the
+This result was shown to hold also when in the case when instead of the
 initial object we postulate a natural numbers object $$\mathbb{N}$$.
 
-A natural question to ask now is: wait a minute, 
+A natural question to ask now is: 
 
 > is every model of PCF trivial? 
 
-The answer to this question (i think) is **negative** for the following reason: 
-
-> there is no initial object in the category of Scott domains
-
-The category of Scott domains consists of pointed directed complete partial orders
+To answer this question we take as a model of PCF the category of [Scott domains](https://en.wikipedia.org/wiki/Scott_domain).
+This category consists of pointed directed complete partial orders
 (dCPPO) as objects and continuous functions as arrows (just following [Thomas Streicher's
 book](https://www.amazon.co.uk/Domain-Theoretic-Foundations-Functional-Programming-Streicher/dp/9812701427) to avoid any misunderstanding).
 
-Now the only way this category has an initial element is if the arrows in the
-category are *strict*, namely they preserve $$\bot$$ elements. But continuous
-functions need not to be strict. 
+Now, we would like to prove that this category is cartesian closed (which we know), has a fixed-point map (which it has) 
+and that it has an initial object. However,  
 
-If this category had an initial element $$0$$ it would have at least a bottom
+> there is no initial object in the category of Scott domains
+
+This is because if this category had an initial element $$0$$ it would have at least a bottom
 element $$\bot_0$$. Notice that the subset $$\{\bot_0\}$$ is indeed directed and
 its suprema $$\bigsqcup \{\bot_0\}$$ is $$\bot_0$$ itself. Now if we take any
 other dCPPO $$X$$, any continuous function $$f : 0 \to X$$ will map $$\bot_0$$
 to some $$x \in X$$ and the suprema would be $$\bigsqcup f(0) = \bigsqcup \{x\} =
 x$$. 
+
+The only way this category had an initial element is if the arrows in the
+category were *strict*, namely they preserved $$\bot$$ elements, but as we have
+seen continuous functions do not necessarily preserve it.
 
 > Is this just a coincidence that Scott's model is not trivial? Not really. 
 
@@ -60,12 +67,13 @@ if $$[\![ t ]\!] = [\![ t' ]\!] $$ then $$t \approx t'$$
 
 where $$\approx$$ is contextual equivalence of programs. 
 
-This means that if the model is trivial then every pair of PCF-denotable terms
-would be equal and therefore operationally equivalent. 
+But if the models was trivial then all the pairs of PCF-denotable terms (pairs
+of maps into something isomorphic to $$1$$) would be equal (by finality) and
+therefore operationally equivalent.  
 
 ### What does this all mean for the Haskell programmer?
 
-Nothing, because Haskell does not have a formal model.
+Well nothing, because Haskell does not have a formal model.
 
 But let's say we make a big leap and take the fragment of Haskell consisting of
 "inductive data types" and recursion. Now I can craft a program that resembles
@@ -92,7 +100,7 @@ endoEmpty = y id === id (y id) -- by Fixed-point property y f = f (y f)
 
 {% endhighlight %}
 
-Is this a problem ? No, this is not a problem because `y id` is the infinite
+Is this a problem? No, this is not a problem because `y id` is the infinite
 computation. In other words, sends the unit element to $$\bot$$. But since
 Haskell functions need not to be strict, I can send the $$\bot$$ element in
 `Empty` to `One ()`. So this map is not an isomorphism.
@@ -102,10 +110,8 @@ This is probably a very convoluted way of saying
 > There is no initial object (or natural numbers object) in PCF (or other "PCF-like" languages like Haskell)
 
 this is because `Empty` actually contains the bottom element $$\bot$$. 
-For the same reasons, if we know consider System F with a polymorphic fixed-point operator and define the $$0$$ object by setting 
+For the same reasons, if we now consider System F with a polymorphic fixed-point operator and define the $$0$$ object by setting 
 
 $$ 0 = \forall x . x$$ 
 
-This object has actually an inhabitant: the non-terminating computation. Thus, it is not the initial object.   
-
-But if you instead think this is just me rambling about.. well you're probably right. 
+This object has actually an inhabitant: the non-terminating computation. Thus, it is not the initial object.
