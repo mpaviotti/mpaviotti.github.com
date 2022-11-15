@@ -54,7 +54,7 @@ will satisfy the equation
 
 $$f \bigsqcup \{\bot_0\} = \bigsqcup f \{\bot_0\} $$
 
-because for any $$x \in X$$ we choose for $$f(\bot_0)$$ (even the bottom element), $$\bigsqcup f \{\bot_0\} = \bigsqcup \{x\} = x$$. 
+because, for any $$x \in X$$ we choose for $$f(\bot_0)$$ (even the bottom element), $$\bigsqcup f \{\bot_0\} = \bigsqcup \{x\} = x$$. 
 
 The only way this category had an initial element is if the arrows in the
 category were *strict*, namely they preserved $$\bot$$ elements, but as we have
