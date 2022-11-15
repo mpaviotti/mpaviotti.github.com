@@ -10,14 +10,14 @@ The list of publications has been automatically generated from this [bibtex file
 <bibtex src="/assets/mpaviotti.bib"></bibtex>
 
 <div class="bibtex_template">
-  <a class="url"><span class="title" style="font-weight: bold;"></span></a><br/>
+  <span class="title" style="font-weight: bold;"></span><br/>
   <span class="author"></span><br/>
   <div class="if journal" style="font-style: italic;">
-    <span class="journal" ></span>, <span class="year"></span>, <span class="publisher"></span>.
+    <span class="journal" style="font-style: italic; font-size:80%"></span>, <span class="year" style="font-style: italic; font-size:80%"></span>, <span style="font-style: italic; font-size:80%" class="publisher"></span>.
   </div>
   <div class="if !journal" style="font-style: italic;">
-    <span class="booktitle" style="font-style: italic;"></span>, <span class="year"></span>, <span class="publisher"></span>.
-  </div>
+    <span class="booktitle" style="font-style: italic; font-size:80%"></span>, <span style="italic; font-size:80%" class="year"></span>, <span style="italic; font-size:80%"  class="publisher"></span>.
+  </div>[<a class="url">pdf</a>]<br>
 <!--  <details class="pub-details">
     <summary>Abstract</summary>
     <blockquote><span class="abstract"></span></blockquote>
