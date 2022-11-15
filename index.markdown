@@ -41,3 +41,12 @@ theory.
 - **March 2022:** On the 16th of May I will be giving a talk at the [School of Computing](https://www.kent.ac.uk/computing) of University of Kent about `semantics` and `recursion schemes`. Link [here](https://www.kent.ac.uk/events/event/54383/fully-abstract-semantics-with-folds-and-unfolds-marco-paviotti).
 - **Jan 2022:** [Paper](https://arxiv.org/abs/2201.10287) accepted at [ESOP 22](https://etaps.org/2022/esop) on *Effect handlers for scoped effects* with Z. Yang, N. Wu, B. van den Berg and T. Schrijvers. 
 
+
+### Publications
+
+See full list of publications [here]({% link publications.markdown %}).
+
+### ISO Standards 
+
+- Modular Relaxed Dependencies (MRD) is a prospective model of C++ concurrency (first appeared in [ESOP '20'](https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf)) which is being considered for the next ISO standard of C++. Link to the draft [here](https://graymalk.in/iso-papers/p1780/p1780r2.html). 
+
