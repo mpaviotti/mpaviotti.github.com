@@ -62,7 +62,7 @@ seen, continuous functions do not necessarily preserve it.
 
 > Is this just a coincidence that Scott's model is not trivial? 
 
-Not really. Because if it was trivial it would break computational adequacy which is the statement
+Not really. Because if it was trivial it would have broken computational adequacy which is the statement
 that for every pair or well-typed terms in the language $$\Gamma \vdash t : A$$
 and $$\Gamma \vdash t' : A$$
 
