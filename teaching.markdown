@@ -6,7 +6,7 @@ title: Teaching
 
 ## Current Modules
 
-- 2023-2024. [COMP6630 -- Programming Languages: Applications and Design](https://www.kent.ac.uk/courses/modules/module/CO663). Module Convenor. 
+- 2023-2024. [COMP6630 -- Programming Languages: Applications and Design](https://www.kent.ac.uk/courses/modules/module/CO663). Module Convenor.  
 
 ## Past Modules
 
