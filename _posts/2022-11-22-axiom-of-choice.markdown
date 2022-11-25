@@ -10,9 +10,7 @@ categories: foundations types
 The Axiom of Choice (AC) is a controversial axiom in set theory that states that the product of a family of non-empty sets is itself non-empty. 
 
 First off, I would not write such a post if I was not convinced *there is* some
-misconception around this axiom and the reasons why it is needed. After all, it
-is common for a mathematical fact to become folklore to the point that people do not remember 
-
+misconception around this axiom and the reasons why it is needed. 
 For example, as you will see, it is indeed true that the axiom of choice is connected with the existential quantifier, it is not true, however, that we cannot pick an element out of the existential because the logic is classical.  
 
 The problem is that 
