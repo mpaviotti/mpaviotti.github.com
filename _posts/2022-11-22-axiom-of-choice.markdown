@@ -17,7 +17,7 @@ The problem is that
 > the existential quantifier does not ensure there exists **one** element with a particular property in the domain of discourse
 
 But in order to fully understand what is going on we need to be more precise. 
-So first let's being with the axiom of choice.
+So first let's begin with what is the axiom of choice.
 
 ### The axiom of choice (AC)
 The original formulation of the AC is the following. 
