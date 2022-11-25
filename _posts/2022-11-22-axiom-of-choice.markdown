@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Axiom of Choice: An easy explanation." 
-date:   2022-11-22 13:14:21 +0000
+date:   2022-11-25 13:14:21 +0000
 categories: foundations types
 ---
 
