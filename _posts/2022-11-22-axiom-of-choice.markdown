@@ -5,12 +5,11 @@ date:   2022-11-25 13:14:21 +0000
 categories: foundations types
 ---
 
-> **Disclaimer:** I do not consider myself an expert on set theory, but after having this kind  of conversation with mathematicians and computer scientists I decided to write this post anyway. 
-
 The Axiom of Choice (AC) is a controversial axiom in set theory that states that the product of a family of non-empty sets is itself non-empty. 
+ 
+First off, I do not consider myself an expert on set theory, but after having this kind  of conversation with mathematicians and computer scientists I found *there are* some
+misconceptions around this axiom and the reasons why it is needed. 
 
-First off, I would not write such a post if I was not convinced *there is* some
-misconception around this axiom and the reasons why it is needed. 
 For example, as you will see, it is indeed true that the axiom of choice is connected with the existential quantifier, it is not true, however, that we cannot pick an element out of the existential because the logic is classical.  
 
 The problem is that 
