@@ -56,7 +56,7 @@ Modular Relaxed Dependencies (MRD) is a prospective model of C++ concurrency (fi
 
 ###  nCatLab
 
-I contribute to maintaing the following pages on [nCatLab](https://ncatlab.org/nlab/show/HomePage)
+I contribute to [nCatLab](https://ncatlab.org/nlab/show/HomePage) by maintaining the following pages 
 
 - [Synthetic Guarded Domain Theory](https://ncatlab.org/nlab/show/synthetic+guarded+domain+theory)
 - [Recursion Schemes](https://ncatlab.org/nlab/show/recursion+scheme)
