@@ -12,11 +12,15 @@ misconceptions around this axiom and the reasons why it is needed.
 
 For example, as you will see, it is indeed true that the axiom of choice is connected with the existential quantifier, it is not true, however, that we cannot pick an element out of the existential because the logic is classical.  
 
-The problem is that 
+In my mind there are two problems: the first is that  
 
 > the existential quantifier does not ensure there exists **one** element with a particular property in the domain of discourse
 
-But in order to fully understand what is going on we need to be more precise. 
+and the second is that 
+
+> we would need to create a infinite proof that uses Existential Instantiation for each element of the indexing set   
+
+However, in order to fully understand what is going on we need to be more precise. 
 So first let's begin with what is the axiom of choice.
 
 ### The axiom of choice (AC)
@@ -49,36 +53,59 @@ and } R(x,y)\}$$.
 
 ### The existential 
 Set theory is a first-order logic together with a set of axioms (9 of them
-exactly including the AC) postulating the existence of certain sets. Besides the propositional fragment of first-order logic there is also the predicate fragment formed by *universal quantification* ($$\forall$$) and *existential quantification* ($$\exists$$). 
+exactly including the AC) postulating the existence of certain sets. Besides the
+propositional fragment of first-order logic there is also the predicate fragment
+formed by *universal quantification* ($$\forall$$) and *existential
+quantification* ($$\exists$$). 
 
-The Existential Instantiation rule states that if we know there exists an $$x$$ that satisfies the property $$P$$ and we can construct a proof from a fresh $$t$$ that satisfies
-that property to a proposition $$R$$ then we can obtain $$R$$
+The Existential Instantiation rule states that if we know there exists an $$x$$
+that satisfies the property $$P$$ and we can construct a proof from a fresh
+$$t$$ that satisfies that property to a proposition $$R$$ then we can obtain
+$$R$$
 
 $$\frac{\exists x. P \qquad t, P[t/x]\cdots R }{R}$$
 
 with $$t$$ free for $$x$$ in $$P$$.
 
 So here we have to treat $$t$$ carefully in that it is a fresh $$t$$ that
-satifies $$P$$, but "we do not know what it is!". 
+satisfies $$P$$, but "we do not know what it is!". 
 
 The reason why I put this sentence in quotes is because this is the explanation
 that many people would use. However, to me the real reason is that *we do not
-know how many other elements in the universe exist with such a property*. There is certainly one, but there may be more. 
+know how many other elements in the universe exist with such a property*. There
+is certainly one, but there may be more. 
 
-### Failing to produce a choice function  
+### The problem with producing a choice function  
 
 To prove Sk we have to assume $$\forall x \in X. \exists y \in Y. R(x, y)$$ and
 prove $$\exists f : X \to Y. \forall x \in X. R (x , f (x))$$ 
 Here though $$f : X \to Y$$ really means a relation $$f \subseteq X
 \times Y$$ such that it is a function, *i.e.* that for all $$x \in X$$ there exists only one $$y \in Y$$ such that $$(x,y) \in f$$. 
 
-Now first we try to construct this relation $$f$$. The naive way I would do this is by using the axiom of comprehension and construct a set of all pairs such that the first component is in $$X$$ and the second is in $$Y$$ s.t. this $$y$$ exists such that $$R(x,y)$$
+Now first we try to construct this relation $$f$$. The naive way I would do this
+is by using the axiom of comprehension and construct a set of all pairs such
+that the first component is in $$X$$ and the second is in $$Y$$ s.t. this $$y$$
+exists such that $$R(x,y)$$
 
-$$f = \{(x, y) \mid x \in X \wedge y \in Y \wedge \exists y'. R(x, y') \wedge y = y'\}$$
+$$f = \{(x, y) \mid x \in X \wedge y \in Y \wedge R(x, y)\}$$
 
-(I don't know whether there are other ways to do this)
+I do not know whether there are other ways to do this. However, before we go on
+proving that for all $$x \in X$$ we have $$R(x, f(x))$$ we have to prove that
+$$f$$ is a function. In particular, that for each $$x \in X$$ there we have a
+**unique** $$y \in Y$$ we map $$x$$ to. But the existential quantifier does not
+allows us to say that this $$y$$ is unique, only that there exists one. If there
+were multiple $$y$$s satisfying $$R(x,y)$$ then $$f$$ would clearly be not a
+function. 
 
-But now we have to prove $$f$$ is a function and that for all $$x \in X$$ we have $$R(x, f(x)$$. In particular, here is where we get in trouble because in order for $$f$$ to be a function we need to prove that for each $$x$$ we have a **unique** $$y \in Y$$ we map $$x$$ to. But the existential quantifier does not allows us to say that this $$y$$ is unique, only that there exists one. If there were multiple $$y$$s satisfying $$R(x,y)$$ then $$f$$ would clearly be not a function. 
+Now the question is, couldn't we just have picked one $$y$$ for each $$x$$?
+
+I could do this if was able to use Existential instantiation for each $$x \in
+X$$, thereby constructing a formula of the form 
+
+$$R(x_0,y_0) \wedge R(x_1,y_1) \wedge \dots \wedge R(x_n, x_n) \wedge \dots$$
+
+which by Set Comprehension would give the function we need. But formulas and
+proofs in set theory are finite and the one above is an infinite formula which would need an (potentially) infinite number of applications of the Existential Instantiation rule.
 
 ### Conclusions 
 Hopefully this untangles some confusion around the axiom of choice.
