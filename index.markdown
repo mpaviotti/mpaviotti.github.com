@@ -9,7 +9,7 @@ title: Short bio
 style="float:left;width:150px;height:150px;padding:3px 5px;border:1.5px solid
 #ccc;margin:20px;"> 
 
-I am a Lecturer (Assistant Professor) within the [School of Computing](https://www.kent.ac.uk/computing) at [University of Kent (U.K.)](https://www.kent.ac.uk) starting from January 2023. 
+I am a Lecturer (Assistant Professor) within the [School of Computing](https://www.kent.ac.uk/computing) at [University of Kent (U.K.)](https://www.kent.ac.uk). 
 
 Previously, I was a Senior Research Associate (senior postdoc) working in the
 [Granule Project](https://granule-project.github.io). From 2020 to 2022, I have
