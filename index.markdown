@@ -35,11 +35,15 @@ theory.
 
 ---
 
-### Vacancies
-We have regular funding for PhD students. Check out the page of my proposed PhD topics [here]({% link research.markdown %}).
+### PhD Vacancies
+The school has regular funding for PhD students. The application process goes
+via the School of Computing where the applicants are required to write a 10-15
+pages Research Proposal. 
 
-If you are interested in doing a PhD in Functional Programming and/or Category Theory, please reach out to me via email. The application process goes via the School of Computing. 
-
+If you are interested in doing a PhD in Functional Programming, Type Theory
+and/or Category Theory, please send me via email before applying. You research
+proposal should be tailored to my [research topics]({% link research.markdown
+%}).
 
 ### News
 - **November 2022:** I will be *module convenor* for [COMP6630 -- Programming Languages: Applications and Design](https://www.kent.ac.uk/courses/modules/module/CO663) which will start again in 2023.   
