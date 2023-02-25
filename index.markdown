@@ -48,6 +48,7 @@ proposal should be tailored to my [research topics]({% link research.markdown
 %}).
 
 ### News
+- **February 2023:** JFP Submission "[Semantics à la carte](/assets/papers/jfp23.pdf)" with Nick Wu. 
 - **January 2023:** PhD scholarships [available](/assets/phd-advert-2023.txt) at the School of Computing 
 - **November 2022:** I will be *module convenor* for [COMP6630 -- Programming Languages: Applications and Design](https://www.kent.ac.uk/courses/modules/module/CO663) which will start again in 2023.   
 - **November 2022:** The WG21 group responsible for C++ ISO standard met last week in Kona (HI, USA) where another [review](https://graymalk.in/iso-papers/p1780/p1780r2.html) of our [weak memory model](https://link.springer.com/content/pdf/10.1007/978-3-030-44914-8_22.pdf) was discussed. The WG21 group approved it unanimously as the correct strategy to tackle the Out-of-thin-air (OOTA) problem.
