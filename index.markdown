@@ -43,7 +43,7 @@ via the School of Computing where the applicants are required to write a 10-15
 pages Research Proposal. 
 
 If you are interested in doing a PhD in Functional Programming, Type Theory
-and/or Category Theory, please send me via email before applying. Your research
+and/or Category Theory, please send me an email before applying. Your research
 proposal should be tailored to my [research topics]({% link research.markdown
 %}).
 
