@@ -75,42 +75,39 @@ that many people would use. However, to me the real reason is that *we do not
 know how many other elements in the universe exist with such a property*. There
 is certainly one, but there may be more. 
 
-### The problem with producing a choice function  
+### The problem with producing a choice function
 
-To prove Sk we have to assume $$\forall x \in X. \exists y \in Y. R(x, y)$$ and
-prove $$\exists f : X \to Y. \forall x \in X. R (x , f (x))$$ 
-Here though $$f : X \to Y$$ really means a relation $$f \subseteq X
-\times Y$$ such that it is a function, *i.e.* that for all $$x \in X$$ there exists only one $$y \in Y$$ such that $$(x,y) \in f$$. 
+To prove Sk we have to assume $$\forall x \in X. \exists y \in Y. R(x, y)$$ and then
+prove $$\exists f : X \to Y. \forall x \in X. R (x , f (x))$$. Though $$f : X \to Y$$ really means a relation $$f \subseteq X \times Y$$ such that it is a function, *i.e.* that for all $$x \in X$$ there exists only one $$y \in Y$$ such that $$(x,y) \in f$$. 
 
-Now first we try to construct this relation $$f$$. The naive way I would do this
-is by using the axiom of comprehension and construct a set of all pairs such
-that the first component is in $$X$$ and the second is in $$Y$$ s.t. this $$y$$
-exists such that $$R(x,y)$$
+Now first we try to construct this relation $$f$$. A first naive attempt is to use the axiom of comprehension as follows
 
 $$f = \{(x, y) \mid x \in X \wedge y \in Y \wedge R(x, y)\}$$
 
-I do not know whether there are other ways to do this. However, before we go on
-proving that for all $$x \in X$$ we have $$R(x, f(x))$$ we have to prove that
-$$f$$ is a function. In particular, that for each $$x \in X$$ there we have a
-**unique** $$y \in Y$$ we map $$x$$ to. But the existential quantifier does not
-allows us to say that this $$y$$ is unique, only that there exists one. If there
-were multiple $$y$$s satisfying $$R(x,y)$$ then $$f$$ would clearly be not a
-function. 
+The problem is that $$f$$ is clearly not a function since there may be more than one $$y$$ per one $$x$$ in $$R$$. Notice that the above statement is very simlar to the one where we include the existential
+
+$$f = \{(x, y) \mid x \in X \wedge \exists y'. y = y' \wedge R(x, y)\}$$
+
+But this does not change much from before since we know there exists at least one $$y$$ per every $$x$$ but we do not know how many. Clearly, we can prove that for all $$x \in X$$ we have $$R(x, f(x))$$, however, we cannot prove that $$f$$ is a function. In particular, that for each $$x \in X$$ we have a **unique** $$y \in Y$$ we map $$x$$ to. 
 
 Now the question is, couldn't we just have picked one $$y$$ for each $$x$$?
 
-I could do this if was able to use Existential instantiation for each $$x \in
-X$$, thereby constructing a formula of the form 
+We could do this if we were able to use Existential Instantiation for each $$x \in
+X$$. If $$X$$ was finite then we could certainly do that as we can pick an $$n \in \mathbb{N}$$ and assume $$X$$ assuming that $$X = \{x_0, x_1, \dots, x_n \}$$.  
+Now we can construct a set of pairs $$(x_i, y_i)_{i\in \{1,\dots,n\}}$$ such that every $$(x_i, y_i) \in R$$ by repeatedly using existential instantiation. Once the set is created we can assign $$f$$ to it 
 
-$$R(x_0,y_0) \wedge R(x_1,y_1) \wedge \dots \wedge R(x_n, x_n) \wedge \dots$$
+$$f = \{(x_0,y_0), (x_1,y_1), \dots, (x_n, y_n)\}$$
 
-which by Set Comprehension would give the function we need. But formulas and
-proofs in set theory are finite and the one above is an infinite formula which would need an (potentially) infinite number of applications of the Existential Instantiation rule.
+However, when $$X$$ is not finite, we cannot simply *write down* the set by hand. Instead we have to create a formula and then use set comprehension. However, there is no (open) formula of the form
+
+$$\{(x_0,y_0) \in R, (x_1,y_1) \in R, \dots, (x_n, y_n) \in R, \dots \}$$
+
+This is because formulas and proofs in set theory are finite and the one above is an infinite formula which would need an (potentially) infinite number of applications of the Existential Instantiation rule.
 
 ### Conclusions 
 Hopefully this untangles some confusion around the axiom of choice.
 
-On the other hand, it works in Type Theory simply because we have access to the proof that for every $$x$$ there exists a $$y$$ such that $$R(x,y)$$. But the reason why there exists only one is because inhabitants of the dependent product $$\Pi$$ are functions already.  
+On the other hand, AoC is derivable in Type Theory simply because we have access to the proof that for every $$x$$ there exists a $$y$$ such that $$R(x,y)$$. But the reason why there exists only one is because inhabitants of the dependent product $$\forall$$ are functions already.  
 
 See the code below. 
 
