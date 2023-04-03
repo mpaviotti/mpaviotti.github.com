@@ -100,7 +100,7 @@ $$f = \{(x_0,y_0), (x_1,y_1), \dots, (x_n, y_n)\}$$
 
 However, when $$X$$ is not finite, we cannot simply *write down* the set by hand. Instead we have to create a formula and then use set comprehension. However, there is no (open) formula of the form
 
-$$\{(x_0,y_0) \in R, (x_1,y_1) \in R, \dots, (x_n, y_n) \in R, \dots \}$$
+$(x_0,y_0) \in R \wedge (x_1,y_1) \in R \wedge \dots \wedge (x_n, y_n) \in R \wedge \dots \}$$
 
 This is because formulas and proofs in set theory are finite and the one above is an infinite formula which would need an (potentially) infinite number of applications of the Existential Instantiation rule.
 
@@ -117,3 +117,5 @@ choice A B R r = (λ x →  proj₁ (r x)) , (λ x → proj₂ (r x))
 {% endhighlight %}
 
 If you have any comment about this please feel free to drop me an email or something I would very happy to know more (especially if I said something wrong).  
+
+###
