@@ -50,7 +50,8 @@ Video](https://www.youtube.com/watch?v=s5nLdm4Dt-0) out first, then send me the
 first draft via email. **Even if it is not perfect**. If I think your topics are
 aligned to mine I will help you finalizing it before it gets submitted.
 
-Applications usually open around January and close at the beginning of March, so keep an eye out. 
+Applications usually open around January and close at the beginning of March, so
+keep an eye out. It will take time to write a good proposal so do not be late and reach out to me earlier rather than later.  
 
 [Here](/assets/phd-advert-2023.txt)'s the advert for 2023 scholarships. 
 
