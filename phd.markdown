@@ -9,10 +9,11 @@ clarify my expectations and help you judge whether I am a good fit for you.
 Let's start with something basic yet **very important**.
 
 Getting a doctorate could be one of your **biggest life achievements** and the
-most amazing time of your life. This, provided you can actually make it to the
-end of the line, in which case it can turn into one of your worst nightmares.
-What determines which of these two scenarios you get into is the **relationship
-with your** main co-worker, i.e. your **supervisor**! 
+most amazing time of your life. This, provided you can actually make constant
+progress throughout and make it to the end of the line. Otherwise, it can turn
+into one of your worst nightmares, a long winded tunnel where you cannot see the
+light at the end of it.  What determines which of these two scenarios you get
+into is the **relationship with your** main co-worker, i.e. your **supervisor**! 
 
 > The success of your PhD depends almost entirely on the relationship between you and your supervisor. 
 
@@ -21,8 +22,7 @@ high rate of  PhD students do not understand that a PhD is a rather serious
 commitment so it is **crucial** to find an advisor whose interests match yours
 and **a person who you feel comfortable working with**. 
 
-To be a good match to me you need to have a theoretically-inclined mindset. It
-is said that 
+In particular, if you want to work with me you need to have a theoretically-inclined mindset. I like the following citation:  
 
 > Computer Science Is Not About Computers, Any More Than Astronomy Is About Telescopes (cit. Edsger W. Dijkstra)
 
