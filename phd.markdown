@@ -30,12 +30,12 @@ In particular, if you want to work with me you need to have a theoretically-incl
 foundations of computability. It **has nothing to do with computers**. The fact
 that it is has the word "Computer" attached to is an unfortunate coincidence (or
 a cunning marketing device). In order to do a PhD with me you have to love
-passionately (not just like) Category Theory, Functional Programming and/or Type
+passionately (or be willing to learn) Category Theory, Functional Programming and/or Type
 Theory. [Here]({% link research.markdown %}) you can find more information about
 my research.
 
 If you do not like what I just said above you should not apply for a PhD with
-me. 
+me. In fact, you will find plenty of more practical computer scientists whom will not agree with my views.  
 
 On the other hand, if you share my ideas or you would like to learn more about
 this you are very welcome to get in touch. 
@@ -43,11 +43,11 @@ this you are very welcome to get in touch.
 The application process goes via the School of Computing where you are required
 to write a mini essay (Research Proposal, 3/4 pages at least). The only purpose
 of this essay is to understand what your interests are and if I can be a good
-supervisor to you. It is not a test! 
+supervisor to you. **It is not a test!** 
 
 If you do not know how to write a Research Proposal check this [Youtube
 Video](https://www.youtube.com/watch?v=s5nLdm4Dt-0) out first, then send me the
-first draft via email. Even if it is not perfect. If I think your topics are
+first draft via email. **Even if it is not perfect**. If I think your topics are
 aligned to mine I will help you finalizing it before it gets submitted.
 
 Applications usually open around January and close at the beginning of March, so keep an eye out. 
