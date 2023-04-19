@@ -23,8 +23,7 @@ To be a good match to me you need to have a theoretically-inclined mindset. It i
 
 > Computer Science Is Not About Computers, Any More Than Astronomy Is About Telescopes (cit. Edsger W. Dijkstra)
 
-**Computer Science** is in fact a branch of mathematical logic that studies the foundations
-of mathematics. It **has nothing to do with computers**. The fact that it is has the word "Computer" attached to is an unfortunate coincidence (or a clumsy marketing device).
+**Computer Science** is in fact a branch of mathematics that studies the foundations of computability. It **has nothing to do with computers**. The fact that it is has the word "Computer" attached to is an unfortunate coincidence (or a clumsy marketing device).
 [Here]({% link research.markdown %}) you can find more information about this, but for the time being let me say that in order to do a PhD with me you have
 to love passionately (not just like) Category Theory, Functional Programming and/or Type Theory.
 
