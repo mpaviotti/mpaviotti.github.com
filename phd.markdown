@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /topics/
+permalink: /phd-statement/
 title: PhD Advising Statement
 ---
 This is a description of my style of Ph.D. supervision, which hopefully will
@@ -29,10 +29,10 @@ is said that
 **Computer Science** is in fact a branch of mathematics that studies the
 foundations of computability. It **has nothing to do with computers**. The fact
 that it is has the word "Computer" attached to is an unfortunate coincidence (or
-a clumsy marketing device).  [Here]({% link research.markdown %}) you can find
-more information about this, but for the time being let me say that in order to
-do a PhD with me you have to love passionately (not just like) Category Theory,
-Functional Programming and/or Type Theory.
+a cunning marketing device). In order to do a PhD with me you have to love
+passionately (not just like) Category Theory, Functional Programming and/or Type
+Theory. [Here]({% link research.markdown %}) you can find more information about
+my research.
 
 If you do not like what I just said above you should not apply for a PhD with
 me. 
@@ -42,11 +42,18 @@ this you are very welcome to get in touch.
 
 The application process goes via the School of Computing where you are required
 to write a mini essay (Research Proposal, 3/4 pages at least). The only purpose
-of this essay is to understand what your  interests are and if I can be a good
-supervisor to you. It is not a test!  You should be true to yourself and write
-down a small piece of text about the things that make you tick. 
+of this essay is to understand what your interests are and if I can be a good
+supervisor to you. It is not a test! 
 
 If you do not know how to write a Research Proposal check this [Youtube
-Video](https://www.youtube.com/watch?v=s5nLdm4Dt-0) out. 
+Video](https://www.youtube.com/watch?v=s5nLdm4Dt-0) out first, then send me the
+first draft via email. Even if it is not perfect. If I think your topics are
+aligned to mine I will help you finalizing it before it gets submitted.
+
+Applications usually open around January and close at the beginning of March, so keep an eye out. 
+
+[Here](/assets/phd-advert-2023.txt)'s the advert for 2023 scholarships. 
+
+In particular, check out [this page](https://www.kent.ac.uk/courses/postgraduate/283/computer-science) for info about what is needed to be eligible (VISAs, English certificate, etc.)
 
 Good luck! 
