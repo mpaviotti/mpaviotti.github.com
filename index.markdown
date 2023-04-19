@@ -37,8 +37,11 @@ theory.
 
 ---
 ### PhD Vacancies
-The school has regular funding for PhD students. Please check my [PhD advising statement]({% link phd.markdown%}) 
-for more info about my style of supervision and instructions about how to apply.
+The school has regular funding for PhD students. Please check my 
+- [PhD advising statement]({% link phd.markdown %})
+- List of [Research Topics]({% link research.markdown %})
+
+for more info about my style of supervision, what I am interested in and instructions about how to apply.
 
 
 ### News
