@@ -8,14 +8,14 @@ clarify my expectations and helps you judge whether I am a good fit for you.
 
 Let's start with something basic yet **very important**.
 
+Getting a doctorate could be one of your **biggest life achievements** and the most amazing time of your life. This, provided you
+can actually make it to the end of the line, in which case it can turn into one of your
+worst nightmares. What determines which of these two scenarios you get into is the **relationship with your** main co-worker, i.e. your **supervisor**! 
+
 > The success of your PhD depends almost entirely on the relationship between you and your supervisor. 
 
-Getting a doctorate could be one of your biggest life achievements, provided you
-can make it to the end of the line, in which case it can turn into one of your
-worst nightmares. The failure rate for a PhD student is typically very high and this is because a high rate of 
-PhD students do not understand the rules of the game before they get into it.    
-
-A PhD is typically 3/4 years of work in one single topic and it is a rather
+The failure rate for a PhD student is typically very high and this is because a high rate of 
+PhD students do not understand that a PhD is a rather
 serious commitment so it is **crucial** to find an advisor whose interests match
 yours and a person who you feel comfortable working with. 
 
