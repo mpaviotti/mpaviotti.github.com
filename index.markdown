@@ -36,16 +36,10 @@ programming, recursion schemes, **category theory**, mathematical logic and type
 theory. 
 
 ---
-
 ### PhD Vacancies
-The school has regular funding for PhD students. The application process goes
-via the School of Computing where the applicants are required to write a 10-15
-pages Research Proposal. 
+The school has regular funding for PhD students. Please check my [PhD advising statement]({% link phd.markdown%}) 
+for more info about my style of supervision and instructions about how to apply.
 
-If you are interested in doing a PhD in Functional Programming, Type Theory
-and/or Category Theory, please send me an email before applying. Your research
-proposal should be tailored to my [research topics]({% link research.markdown
-%}).
 
 ### News
 - **February 2023:** JFP Submission "[Full Abstraction for Free](https://arxiv.org/abs/2303.09358)" with Nick Wu. 
