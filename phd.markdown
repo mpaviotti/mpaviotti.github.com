@@ -11,11 +11,11 @@ Let's start with something basic yet **very important**.
 Getting a doctorate could be one of your **biggest life achievements** and the
 most amazing time of your life. This, provided you can actually make constant
 progress throughout and make it to the end of the line. Otherwise, it can turn
-into one of your worst nightmares, a long winded tunnel where you cannot see the
+into one of your worst nightmares, a long-winded tunnel in which you cannot see the
 light at the end of it.  What determines which of these two scenarios you get
-into is the **relationship with your** main co-worker, i.e. your **supervisor**! 
+into is the **relationship with your** main co-worker, i.e. your **supervisor**! In fact,  
 
-> The success of your PhD depends almost entirely on the relationship between you and your supervisor. 
+> the success of your PhD depends almost entirely on the relationship between you and your supervisor. 
 
 The failure rate for a PhD student is typically very high and this is because a
 high rate of  PhD students do not understand that a PhD is a rather serious
@@ -28,14 +28,15 @@ In particular, if you want to work with me you need to have a theoretically-incl
 
 **Computer Science** is in fact a branch of mathematics that studies the
 foundations of computability. It **has nothing to do with computers**. The fact
-that it is has the word "Computer" attached to is an unfortunate coincidence (or
+that it is has the word "Computer" attached to it is an unfortunate coincidence (or
 a cunning marketing device). In order to do a PhD with me you have to love
 passionately (or be willing to learn) Category Theory, Functional Programming and/or Type
 Theory. [Here]({% link research.markdown %}) you can find more information about
 my research.
 
 If you do not like what I just said above you should not apply for a PhD with
-me. In fact, you will find plenty of more practical computer scientists whom will not agree with my views.  
+me. You will be able to find plenty of more practical computer scientists whom
+will not agree with my views.
 
 On the other hand, if you share my ideas or you would like to learn more about
 this you are very welcome to get in touch. 
@@ -51,10 +52,15 @@ first draft via email. **Even if it is not perfect**. If I think your topics are
 aligned to mine I will help you finalizing it before it gets submitted.
 
 Applications usually open around January and close at the beginning of March, so
-keep an eye out. It will take time to write a good proposal so do not be late and reach out to me earlier rather than later.  
+keep an eye out. It will take time to write a good proposal so **do not be late** and **reach out to me earlier** rather than later. 
 
 [Here](/assets/phd-advert-2023.txt)'s the advert for 2023 scholarships. 
 
-In particular, check out [this page](https://www.kent.ac.uk/courses/postgraduate/283/computer-science) for info about what is needed to be eligible (VISAs, English certificate, etc.)
+In particular, check out [this
+page](https://www.kent.ac.uk/courses/postgraduate/283/computer-science) for info
+about what is needed to be eligible (VISAs, English certificate, etc.). Do not
+underestimate the need of having this documents ready since universities in the
+U.K. tend to be rather strict about requirements even though sometimes they
+ought to be flexible. 
 
 Good luck! 
