@@ -21,6 +21,10 @@ same energy and commitment. The problems **usually** arise when one of the two
 are not committed as much as the other and, unfortunately, the one that loses
 the game is always the student, since it is the one who needs a PhD.
 
+As a supervisor I am committed to supervise students and to do my best to ensure
+their research progresses in a constant and timely manner, but rest assured, a **PhD is a lot
+of work** and you will need to focus if you want to get through it. 
+
 The failure rate for a PhD student is typically very high (yes! not everyone
 gets to the end of the line successfully) and this is because a high rate of
 PhD students do not understand what a serious commitment a PhD really is. Thus
@@ -59,6 +63,7 @@ first draft via email. **Even if it is not perfect**. If I think your topics are
 aligned to mine I will help you finalizing it before it gets submitted.  Mind
 you, "I will help you finalizing it" means I will help you by guiding you
 through it, but **I will not write it for you** for the reasons I stated above. 
+If you think writing a research proposal is too much work for an application then, trust me, this job is not for you!   
 
 Applications usually open around January and close at the beginning of March, so
 keep an eye out. It will take time to write a good proposal so **do not be
@@ -72,9 +77,5 @@ about what is needed to be eligible (VISAs, English certificate, etc.). Do not
 underestimate the need of having this documents ready since universities in the
 U.K. tend to be rather strict about requirements even though sometimes they
 ought to be flexible. 
-
-As a supervisor I am committed to guarantee a certain level of
-supervision, but rest assured, a PhD is a lot of work and you will need to focus
-if you want to get through it. 
 
 Good luck! 
