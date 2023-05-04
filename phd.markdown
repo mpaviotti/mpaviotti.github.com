@@ -15,7 +15,7 @@ into one of your worst nightmares, a long-winded tunnel in which you cannot see
 the light at the end of it. 
 
 A PhD is, in my opinion, a 2-players game and the success of the game is
-essentially based on the **relationship** between the two players. The best
+essentially based on the **relationship** between the two players, the student and the supervisor. The best
 scenario possible is when student and supervisor collaborate with each other the
 same energy and commitment. The problems **usually** arise when one of the two
 are not committed as much as the other and, unfortunately, the one that loses
