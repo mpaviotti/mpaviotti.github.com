@@ -15,21 +15,18 @@ into one of your worst nightmares, a long-winded tunnel in which you cannot see
 the light at the end of it. 
 
 A PhD is, in my opinion, a 2-players game and the success of the game is
-essentially based on the **relationship** between the two players, the student and the supervisor. The best
-scenario possible is when student and supervisor collaborate with each other the
-same energy and commitment. The problems **usually** arise when one of the two
-are not committed as much as the other and, unfortunately, the one that loses
-the game is always the student, since it is the one who needs a PhD.
+essentially based on the **relationship** between the two players, the student
+and the supervisor. The best scenario possible is when student and supervisor
+collaborate with each other the same energy and commitment.
 
 As a supervisor I am committed to supervise students and to do my best to ensure
-their research progresses in a constant and timely manner, but rest assured, a **PhD is a lot
-of work** and you will need to focus if you want to get through it. 
+their research progresses in a constant and timely manner, but rest assured that
+there is **is a lot of work up ahead** and you will need to focus if you want to get through it.   
 
-The failure rate for a PhD student is typically very high (yes! not everyone
-gets to the end of the line successfully) and this is because a high rate of
-PhD students do not understand what a serious commitment a PhD really is. Thus
-it is **crucial** to find an advisor whose interests match yours and **a person
-who you feel comfortable working with**. 
+The failure rate for PhD students is typically very high (not everyone gets
+to the end of the line successfully) thus it is **crucial** to find an advisor
+whose interests match yours and **a person who you feel comfortable working
+with**. 
 
 In particular, if you want to work with me you need to have a theoretically-inclined mindset. I like the following citation:  
 
@@ -54,7 +51,7 @@ The application process goes via the School of Computing where you are required
 to write a mini essay (Research Proposal, 5/6 pages at least) about the research
 you wish to conduct under my supervision. One of the purposes of this essay is
 to understand what your interests are and if I can be a good supervisor to you.
-**It is not a test**. On the other hand, it is also designed to assess whether you 
+It is also designed to assess whether you 
 have the right amount of motivations to embark in this journey.    
 
 If you do not know how to write a Research Proposal check this [Youtube
@@ -62,8 +59,7 @@ Video](https://www.youtube.com/watch?v=s5nLdm4Dt-0) out first, then send me the
 first draft via email. **Even if it is not perfect**. If I think your topics are
 aligned to mine I will help you finalizing it before it gets submitted.  Mind
 you, "I will help you finalizing it" means I will help you by guiding you
-through it, but **I will not write it for you** for the reasons I stated above. 
-If you think writing a research proposal is too much work for an application then, trust me, this job is not for you!   
+through it, but **I cannot write it for you** for the reasons I stated above. 
 
 Applications usually open around January and close at the beginning of March, so
 keep an eye out. It will take time to write a good proposal so **do not be
