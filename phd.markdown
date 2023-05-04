@@ -12,7 +12,7 @@ Getting a doctorate could be one of your **biggest life achievements** and the
 most amazing time of your life. This, provided you can actually make constant
 progress throughout and make it to the end of the line. Otherwise, it can turn
 into one of your worst nightmares, a long-winded tunnel in which you cannot see the
-light at the end of it.  What determines which of these two scenarios you get
+light at the end of it. What determines which of these two scenarios you get
 into is the **relationship with your** main co-worker, i.e. your **supervisor**! In fact,  
 
 > the success of your PhD depends almost entirely on the relationship between you and your supervisor. 
@@ -28,11 +28,11 @@ In particular, if you want to work with me you need to have a theoretically-incl
 
 **Computer Science** is in fact a branch of mathematics that studies the
 foundations of computability. It **has nothing to do with computers**. The fact
-that it is has the word "Computer" attached to it is an unfortunate coincidence (or
-a cunning marketing device). In order to do a PhD with me you have to love
-passionately (or be willing to learn) Category Theory, Functional Programming and/or Type
-Theory. [Here]({% link research.markdown %}) you can find more information about
-my research.
+that it is has the word "Computer" attached to it is an unfortunate coincidence
+(or a cunning marketing device). In order to do a PhD with me you have to love
+passionately (or be willing to learn) Category Theory, Functional Programming
+and/or Type Theory. [Here]({% link research.markdown %}) you can find more
+information about my research.
 
 If you do not like what I just said above you should not apply for a PhD with
 me. You will be able to find plenty of more practical computer scientists whom
@@ -42,9 +42,10 @@ On the other hand, if you share my ideas or you would like to learn more about
 this you are very welcome to get in touch. 
 
 The application process goes via the School of Computing where you are required
-to write a mini essay (Research Proposal, 3/4 pages at least). The only purpose
-of this essay is to understand what your interests are and if I can be a good
-supervisor to you. **It is not a test!** 
+to write a mini essay (Research Proposal, 5/6 pages at least) about the research
+you wish to conduct under my supervision. One of the purposes of this essay is
+to understand what your interests are and if I can be a good supervisor to you.
+**It is not a test**. 
 
 If you do not know how to write a Research Proposal check this [Youtube
 Video](https://www.youtube.com/watch?v=s5nLdm4Dt-0) out first, then send me the
@@ -52,7 +53,8 @@ first draft via email. **Even if it is not perfect**. If I think your topics are
 aligned to mine I will help you finalizing it before it gets submitted.
 
 Applications usually open around January and close at the beginning of March, so
-keep an eye out. It will take time to write a good proposal so **do not be late** and **reach out to me earlier** rather than later. 
+keep an eye out. It will take time to write a good proposal so **do not be
+late** and **reach out to me earlier** rather than later. 
 
 [Here](/assets/phd-advert-2023.txt)'s the advert for 2023 scholarships. 
 
@@ -62,5 +64,9 @@ about what is needed to be eligible (VISAs, English certificate, etc.). Do not
 underestimate the need of having this documents ready since universities in the
 U.K. tend to be rather strict about requirements even though sometimes they
 ought to be flexible. 
+
+As a supervisor I am committed to guarantee a certain level of
+supervision, but rest assured, a PhD is a lot of work and you will need to focus
+if you want to get through it. 
 
 Good luck! 
