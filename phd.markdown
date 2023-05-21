@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /phd-statement/
-title: PhD Advising Statement
+title: Applying for a PhD
 ---
-This is a description of my style of Ph.D. supervision, which hopefully will
-clarify my expectations and help you judge whether I am a good fit for you.
+This page contains a description of my style of Ph.D. supervision, which hopefully will
+clarify my expectations and help you judge whether I am a good fit for you and some instructions about how to apply. 
 
 ## Getting a PhD
 Getting a doctorate could be one of your **biggest life achievements** and the
