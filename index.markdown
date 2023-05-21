@@ -37,12 +37,9 @@ theory.
 
 ---
 ### PhD Vacancies
-The school has regular funding for PhD students. Please check my 
-- PhD [Advising statement]({% link phd.markdown %}), and my 
-- list of [Research Topics]({% link research.markdown %})
-
-for more info about my style of supervision, what I am interested in and instructions about how to apply.
-
+The school has regular funding for PhD students. Before applying you should take a look at the following pages:
+- What it is like to do a PhD and how to apply [Instructions]({% link phd.markdown %})   
+- List of [Research Topics]({% link research.markdown %}) I cover
 
 ### News
 - **February 2023:** JFP Submission "[Full Abstraction for Free](https://arxiv.org/abs/2303.09358)" with Nick Wu. 
