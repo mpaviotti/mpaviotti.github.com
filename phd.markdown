@@ -28,7 +28,7 @@ If you want to work with me you need to have a theoretically-inclined mindset. I
 
 > Computer Science Is Not About Computers, Any More Than Astronomy Is About Telescopes (cit. Edsger W. Dijkstra)
 
-**Computer Science** is in fact a branch of mathematics that studies the
+Computer Science is in fact a branch of mathematics that studies the
 foundations of computability. It **has little to do with computers**. The fact
 that it is has the word "Computer" attached to it is an unfortunate coincidence
 (or a cunning marketing device). 
