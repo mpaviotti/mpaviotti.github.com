@@ -37,10 +37,9 @@ theory.
 
 ---
 ### PhD Vacancies
-The school has regular funding for PhD students. Before applying you should take
-a look at the following pages:
-- What it is like to do a PhD and how to apply [Instructions]({% link phd.markdown %})   
-- List of [Research Topics]({% link research.markdown %}) I cover
+I am looking for a PhD student to work on topics which include, but not limited to, category theory, type theory and functional programming.
+
+If you're interested please reach out to me! 
 
 ### News
 - **July 2023:** I am co-supervising Victoria Vollmer together with Dominic Orchard. Her thesis focusses on multicategories for linear type theories. 
