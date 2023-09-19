@@ -37,11 +37,14 @@ theory.
 
 ---
 ### PhD Vacancies
-I am looking for a PhD student to work on topics which include, but not limited to, category theory, type theory and functional programming.
+I am looking for a PhD student to work on topics which include, but not limited
+to, category theory, type theory and functional programming.
 
 If you're interested please reach out to me! 
 
 ### News
+- **September 2023:** Riccardo Bianchini visits the Granule Project 
+- **September 2023:** [Dr. Laura Titolo](https://lauratitolo.github.io) (NASA Formal Methods, Langley USA) visits the PLAS group.
 - **July 2023:** I am co-supervising Victoria Vollmer together with Dominic Orchard. Her thesis focusses on multicategories for linear type theories. 
 - **February 2023:** JFP Submission "[Full Abstraction for Free](https://arxiv.org/abs/2303.09358)" with Nick Wu. 
 - **January 2023:** PhD scholarships [available](/assets/phd-advert-2023.txt) at the School of Computing 
