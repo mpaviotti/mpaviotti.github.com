@@ -3,10 +3,6 @@ layout: page
 permalink: /phd-statement/
 title: Applying for a PhD
 ---
-This page contains a description of my style of Ph.D. supervision, which hopefully will
-clarify my expectations and help you judge whether I am a good fit for you and some instructions about how to apply. 
-
-## Getting a PhD
 Getting a doctorate could be one of your **biggest life achievements** and the
 most amazing time of your life. This, provided you can actually make constant
 progress throughout and make it to the end of the line. Otherwise, it can turn
@@ -111,7 +107,7 @@ Nestled atop a picturesque hill, the Kent campus offers breathtaking view of the
 enchanting historic city of Canterbury and the cathedral of the Archbishop of
 Canterbury which forms part of a World Heritage Site. 
 
-The campus provides an extensive range of housing options within its colleges,
+    The campus provides an extensive range of housing options within its colleges,
 while still maintaining a convenient 30-minute walking distance from the city.
 Additionally, should you opt for city living, you have the flexibility to travel
 by bike or bus. With a high-speed connection to London, the City is just a 55m
