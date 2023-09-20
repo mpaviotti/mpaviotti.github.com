@@ -39,7 +39,11 @@ research.
 What I am looking for is not someone who knows everything from the ground up,
 but someone who possesses the ability and willingness to learn new bits of mathematics and the emotional intelligence, awareness and social capacity to work with other people as well as being willing to learn and follow the lead of the supervisor. 
 
-Independence is also a valuable skill and if you are willing to pursue your own ideas within these topics you are welcome to do so. I will guide you in any way I can, but usually the more you stray away from your supervisor's research topics the less they can be useful for the attainment of your degree.  
+Independence is also a valuable skill and if you are willing to pursue your own ideas within these topics you are welcome to do so. I will guide you in any way I can, but beware that the more you stray away from your supervisor's research topics the less they can be useful for the attainment of your degree. 
+
+The process of writing a good research proposal (see below) is a way to minimise
+the risk that  there is a mistmatch between your interests and the ones of your
+supervisor. 
 
 Below you can find the list of topics I propose ordered from the most
 theoretical ones down to the more practical. Mind you, they all involve category
