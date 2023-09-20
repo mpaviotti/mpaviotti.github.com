@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /phd-statement/
-title: Applying for a PhD
+title: So you want to get a PhD ...  
 ---
+
 Getting a doctorate could be one of your **biggest life achievements** and the
 most amazing time of your life. This, provided you can actually make constant
 progress throughout and make it to the end of the line. Otherwise, it can turn
