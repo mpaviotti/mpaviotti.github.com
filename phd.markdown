@@ -108,7 +108,7 @@ Nestled atop a picturesque hill, the Kent campus offers breathtaking view of the
 enchanting historic city of Canterbury and the cathedral of the Archbishop of
 Canterbury which forms part of a World Heritage Site. 
 
-    The campus provides an extensive range of housing options within its colleges,
+The campus provides an extensive range of housing options within its colleges,
 while still maintaining a convenient 30-minute walking distance from the city.
 Additionally, should you opt for city living, you have the flexibility to travel
 by bike or bus. With a high-speed connection to London, the City is just a 55m
