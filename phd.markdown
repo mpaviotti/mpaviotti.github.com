@@ -24,7 +24,7 @@ whose interests match yours and **a person who you feel comfortable working
 with**. 
 
 ## My style of supervision
-If you want to work with me you need to have a theoretically-inclined mindset. I like the following citation:  
+If you want to work with me you need to have a theoretically-inclined mindset. I like the following citation: 
 
 > Computer Science Is Not About Computers, Any More Than Astronomy Is About Telescopes (cit. Edsger W. Dijkstra)
 
@@ -33,12 +33,40 @@ foundations of computability. It **has little to do with computers**. The fact
 that it is has the word "Computer" attached to it is an unfortunate coincidence
 (or a cunning marketing device). 
 
-In order to do a PhD with me you have to be interested in (or be willing to
+Ideally, in order to do a PhD with me you have to be interested in (or be willing to
 learn) Category Theory, Functional Programming and/or Type Theory. [Here]({%
 link research.markdown %}) you can find more information about my research.
 
-If you share my ideas or you would like to learn more about this you are very
+What I am looking for is not someone who knows everything from the ground up,
+but someone who has the emotional awareness and social capacity to work with
+other people
+and be willing to learn and follow the lead of the supervisor. Independence is also a valuable skill and if you are willing to pursue your own ideas within these topics you are welcome to do so. I will guide you in any way I can, but usually the more you stray away from your supervisor's research topics the less they can be useful for the attainment of your degree.  
+
+Below you can find the list of topics I propose ordered from the most theoretical ones down to the more practical. Mind you, they all involve category theory, but category theory can be useful for doing foundational work (e.g. type theory and topos theory) as well as structuring functional programs (e.g. optimisation of Haskell programs).
+
+### Guarded Recursion 
+
+- Lars Birkedal, Rasmus Ejlers Møgelberg, Jan Schwinghammer, Kristian Støvring. [First steps in synthetic guarded domain theory: step-indexing in the topos of trees.](https://arxiv.org/abs/1208.3596) Log. Methods Comput. Sci. 8(4) (2012)
+
+- Marco Paviotti, Rasmus Ejlers Møgelberg, Lars Birkedal. [A Model of PCF in Guarded Type Theory.](http://www.itu.dk/people/mogel/papers/PCF-mfps2015.pdf) MFPS 2015.
+
+### Bialgebras 
+
+- Bartek Klin. [Bialgebras for structural operational semantics: An introduction.](https://www.sciencedirect.com/science/article/pii/S0304397511002532) Theor. Comput. Sci. 412(38): 5043-5069 (2011)
+- Daniele Turi, Gordon D. Plotkin. [Towards a Mathematical Operational Semantics.](https://homepages.inf.ed.ac.uk/gdp/publications/Math_Op_Sem.pdf) LICS 1997: 280-291
+
+### Recursion Schemes 
+
+- Ralf Hinze, Nicolas Wu, Jeremy Gibbons. [Unifying structured recursion schemes.](https://research-information.bris.ac.uk/ws/portalfiles/portal/65842535/Nicolas_Wu_Unifying_Structured_Recursion_Schemes.pdf) ICFP 2013: 209-220
+- Ralf Hinze, Nicolas Wu, Jeremy Gibbons. [Conjugate Hylomorphisms - Or: The Mother of All Structured Recursion Schemes.](https://dl.acm.org/doi/10.1145/2775051.2676989) POPL 2015: 527-538
+
+If you like any of these topics or you would like to learn more about this you are very
 welcome to get in touch. 
+
+If you do not like any of these topics you are also welcome to propose your own and I will judge whether these are of interest to me and if I am willing to work with you. 
+
+Beware, at the end of the day it is crucial that you find a topic that you are comfortable with and that **makes you tick**. 
+
 
 ## The application process
 The application process goes via the School of Computing where you are required

@@ -36,11 +36,14 @@ programming, recursion schemes, **category theory**, mathematical logic and type
 theory. 
 
 ---
+
 ### PhD Vacancies
 I am looking for a PhD student to work on topics which include, but not limited
 to, category theory, type theory and functional programming.
 
-If you're interested please reach out to me! 
+Take a look at this [page]({% link phd.markdown %}) for more info.
+
+If you're interested please reach out to me!
 
 ### News
 - **September 2023:** Riccardo Bianchini visits the Granule Project 
