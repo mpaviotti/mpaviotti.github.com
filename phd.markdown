@@ -103,7 +103,7 @@ underestimate the need of having this documents ready since universities in the
 U.K. tend to be rather strict about requirements even though sometimes they
 ought to be flexible. 
 
-## Studying in Canterbury
+## Studying in Canterbury
 
 In the latest QS World University Rankings for 2024, the University of Kent has
 been ranked in the top 25% of Higher Education Institutions worldwide.
@@ -119,4 +119,5 @@ by bike or bus. With a high-speed connection to London, the City is just a 55m
 ride away by train, and European travel is conveniently within reach via the
 Eurostar train or by car.
 
-Good luck! 
+All the best and good luck with your application! 
+Marco
