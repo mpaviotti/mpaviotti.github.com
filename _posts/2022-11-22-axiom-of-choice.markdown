@@ -2,7 +2,7 @@
 layout: post
 title:  "The Axiom of Choice: An easy explanation." 
 date:   2022-11-25 13:14:21 +0000
-categories: foundations types
+categories: foundations settheory
 ---
 
 The Axiom of Choice (AC) is a controversial axiom in set theory that states that the product of a family of non-empty sets is itself non-empty. 

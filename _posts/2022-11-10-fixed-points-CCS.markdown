@@ -2,7 +2,7 @@
 layout: post
 title:  "Inconsistencies in Cartesian Closed Categories with fixed-points" 
 date:   2022-11-10 13:14:21 +0000
-categories: categories recursion
+categories: semantics categories recursion
 ---
 Yesterday I had yet another interesting conversation with [Zhixuan
 Yang](https://yangzhixuan.github.io) where I pointed out that there is a very
