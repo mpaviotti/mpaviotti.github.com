@@ -2,7 +2,7 @@
 layout: post
 title:  "The mini Yoneda lemma for Type Theorists" 
 date:   2023-09-09 13:14:21 +0000
-categories: foundations categories
+categories: semantics categories
 ---
 
 Disclaimer: I took this from a lecture by Roy Crole at the MGS 2018 which I thought it was great!

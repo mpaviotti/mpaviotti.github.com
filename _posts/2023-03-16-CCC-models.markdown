@@ -2,7 +2,7 @@
 layout: post
 title:  "CCCs are not complete models of STLC" 
 date:   2023-03-16 13:14:21 +0000
-categories: categories semantics 
+categories: semantics categories 
 ---
 
 Now that I have caught your attention with a completely outrageous title I will
