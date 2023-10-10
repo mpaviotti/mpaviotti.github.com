@@ -57,7 +57,7 @@ $$Q_{2} = \text{pay}.\text{tea}.Q$$
 
 $$Q'_{1} = \text{coffee}.Q$$
 
-$$Q_{2} = \text{tea}.Q$$
+$$Q'_{2} = \text{tea}.Q$$
 
 Now for all transitions of $$Q$$ we have to show $$P$$ simulates them. The first
 one is $$Q \xrightarrow{\text{pay}} Q'_{1}$$.  Obviously $$P
@@ -65,7 +65,7 @@ one is $$Q \xrightarrow{\text{pay}} Q'_{1}$$.  Obviously $$P
 \lesssim P'_{1}$$ which clearly does.  This works similarly if $$Q$$ decides to
 take the other route and produce tea in the end. 
 
-All right, but $$P \lesssim Q$$ does not work. This is because $$P$$ makes a transition $$P \xrightarrow{\text{pay}} P'$$ we are forced to select which branch in $$Q$$ is simulating this behaviour. No matter which one we choose we get stuck in one way or the other. Say $$Q \xrightarrow{\text{pay}} Q_{1}$$ we have to show $$P' \lesssim Q_{1}$$, but this latter fact does not hold because $$P'$$ can make two different transitions and $$Q_1$$ can only make one.   
+All right, but $$P \lesssim Q$$ does not work. This is because since $$P$$ makes a transition $$P \xrightarrow{\text{pay}} P'$$ we are forced to select which branch in $$Q$$ is simulating this behaviour. No matter which one we choose we get stuck in one way or the other. Say $$Q \xrightarrow{\text{pay}} Q'_{1}$$ we have to show $$P' \lesssim Q'_{1}$$, but this latter fact does not hold because $$P'$$ can make two different transitions and $$Q'_1$$ can only make one.   
 
  
 
