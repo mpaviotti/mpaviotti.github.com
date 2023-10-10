@@ -6,30 +6,34 @@ categories: semantics concurrency
 ---
 
 Today in Theory of Concurrency class we saw how, in certain variants of CCS,
-bisimilarity is larger than equality as in it distinguishes more things than
+bisimilarity is larger than equality of traces as in it distinguishes more things than
 equality. 
 
 One example of this fact is when considering CCS with the choice operator.  In
 this language we can define a process $$P$$ and a process $$Q$$ as follows 
 
-$$P = \text{pay}.(\text{coffee}. P + \text{tea}. 0)$$ 
+$$P = \text{pay}.(\text{coffee}. 0 + \text{tea}. 0)$$ 
 
-$$Q = (\text{pay}.\text{coffee}.Q + \text{pay}.\text{tea}. 0)$$
+$$Q = (\text{pay}.\text{coffee}.0 + \text{pay}.\text{tea}. 0)$$
 
 Now the *trace semantics* of the CCS processes can be defined by a function 
 
 $$[\![ \cdot ]\!] : \text{CCS} \to \mathcal{P}_\text{fin}(\text{Str } L) $$
 
-where  $$\text{Str } A = A \times \text{Str }A $$ is the set of streams over a set $$A$$. 
+where $L$ is the finite set of actions and, for a generic set $A$, the set
+$$\text{Str } A = 1 + A \times \text{Str }A $$ is the set of possibly finite
+streams over a set $$A$$. 
 
-For the processes above we have $$[\![P]\!] = \{\text{pay}.\text{coffee},
-\text{pay}.\text{tea}\}$$ and $$[\![ Q ]\!] = \{\text{pay}.\text{coffee},
-\text{pay}.\text{tea}\}$$ and thus the trace semantics of $$P$$ and $$Q$$
-indicate that these processes should be equal. 
+For the processes above we have that the semantics of $$P$$ is $$[\![P]\!] =
+\{\text{pay}.\text{coffee}, \text{pay}.\text{tea}\}$$ and the semantics of $$Q$$
+is $$[\![ Q ]\!] = \{\text{pay}.\text{coffee}, \text{pay}.\text{tea}\}$$ and
+thus the trace semantics of $$P$$ and $$Q$$ indicate that these processes should
+be equal. 
 
 However, consider the relation $$P$$ *simulates* $$Q$$ which is stated as 
 
-$$ P \lesssim Q \Leftrightarrow \forall P'. \text{ if } P \xrightarrow{a} P' \text{ then  } \exists Q'. Q \xrightarrow{a} Q' \text{ s.t. } P' \lesssim Q'$$
+$$ P \lesssim Q \Leftrightarrow \forall P'. \text{ if } P \xrightarrow{a} P'
+\text{ then  } \exists Q'. Q \xrightarrow{a} Q' \text{ s.t. } P' \lesssim Q'$$
 
 Now the bisimulation relation can be defined as $$P \approx Q \Leftrightarrow P
 \lesssim Q \text{ and } Q \lesssim P$$. 
@@ -37,7 +41,32 @@ Now the bisimulation relation can be defined as $$P \approx Q \Leftrightarrow P
 The above example is a standard example in concurrency theory that shows that
 bisimulation can distinguish processes where equality on the trace semantics
 indicate that they should be regarded as equal and that is why bisimulations
-turn out to be more useful relations to compare processes. 
+turn out to be more useful relations to compare processes.
+
+Using the example above we can prove that $$Q \lesssim P$$. Let's define half-evaluated processes as 
+
+$$P' = \text{coffee}. 0 + \text{tea}. 0$$
+
+$$P'_{1} = \text{coffee}. 0$$
+
+$$P'_{2} = \text{tea}. 0$$
+
+$$Q_{1} = \text{pay}.\text{coffee}.Q$$
+
+$$Q_{2} = \text{pay}.\text{tea}.Q$$
+
+$$Q'_{1} = \text{coffee}.Q$$
+
+$$Q_{2} = \text{tea}.Q$$
+
+Now for all transitions of $$Q$$ we have to show $$P$$ simulates them. The first one is $$Q \xrightarrow{\text{pay}} Q'_{1}$$.
+Obviously $$P \xrightarrow{\text{pay}} P'_{1}$$ and so now we have to show that $$Q'_{1} \lesssim P'_{1}$$ which clearly does. 
+This works similarly if $$Q$$ decides to take the other route and produce tea in the end. 
+
+All right, but $$P \lesssim Q$$ does not work. This is because $$P$$ makes a transition $$P \xrightarrow{\text{pay}} P'$$ we are forced to select which branch in $$Q$$ is simulating this behaviour. No matter which one we choose we get stuck in one way or the other. Say $$Q \xrightarrow{\text{pay}} Q_{1}$$ we have to show $$P' \lesssim Q_{1}$$, but this latter fact does not hold because $$P'$$ can make two different transitions and $$Q_1$$ can only make one.   
+
+on the $$Q$$ side we have to chose 
+ 
 
 ## CoRecursion Schemes and Traces
 Consider now the unfold function which takes a seed function an produces a trace by *running* the seed at each steps
@@ -59,7 +88,9 @@ This is also backed by the fact that when programming in proof assistants like (
 
 > **Axiom** $$\text{ for all } (s_{1}, s_{2} : \text{Str L}). s_{1} \approx s_{2} \to s_{1} = s_{2}$$ . 
 
-As the other direction is obvious this implies bisimiliary is equality. 
+Even more so, in some proof assistants like Isabelle coinductive data types are real final coalgebras and so the above axiom is actually a true fact in the prover's logic. 
+
+Notice that the other direction is obvious and thus the axiom implies bisimiliary is *logically equivalent*  equality. 
 
 > So why bisimulation in the above example does not correpond to equality? 
 

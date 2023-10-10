@@ -4,6 +4,7 @@ title:  "Inconsistencies in Cartesian Closed Categories with fixed-points"
 date:   2022-11-10 13:14:21 +0000
 categories: semantics categories recursion
 ---
+
 Yesterday I had yet another interesting conversation with [Zhixuan
 Yang](https://yangzhixuan.github.io) where I pointed out that there is a very
 nice [paper](https://www.sciencedirect.com/science/article/pii/030439759090165E)
