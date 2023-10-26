@@ -3,22 +3,36 @@ layout: page
 permalink: /phd-statement/
 title: So you want to get a PhD ...  
 ---
+If you are here you are probably considering getting a PhD in Theoretical Computer Science. 
+While a think this is a great idea(!) I would like you to take some time reading this page to make sure you understand the **advantages as well** as the **risks** involved in getting into a PhD program.      
 
-Getting a doctorate could be one of your **biggest life achievements** and the
-most amazing time of your life. This, provided you can actually make constant
+First of all, it is important to be aware that pursuing a PhD is in stark
+contrast to obtaining a B.Sc. or M.Sc. degree. In the case of a BSc examination,
+success typically involves diligent study from textbooks or lecture notes,
+followed by passing the final exam.
+
+However, achieving a PhD requires an entirely distinct level of dedication and
+motivation. In fact, the requirements of a PhD include producing and publishing
+groundbreaking, pertinent, and rigorously sound research in significant
+international venues, including conferences and journals.
+
+That is why getting a doctorate could be one of your **biggest life achievements** and the
+most rewarding time of your life. But this is provided you can actually make constant
 progress throughout and make it to the end of the line. Otherwise, it can turn
 into one of your worst nightmares, a long-winded tunnel in which you cannot see
 the light at the end of it. 
 
 A PhD is, in my opinion, a 2-players game and the success of the game is
 essentially based on the **relationship** between the two players, the student
-and the supervisor. The best scenario possible is when student and supervisor
-collaborate with each other the same energy and commitment.
+and the supervisor. This relations is more likely to work out when student's and
+supervisor's interests are tightly aligned. Similarly, it can
+deteriorate very quickly if there is no common interest. Though, identifying common areas of
+research can be quite tricky even for senior academics given the highly
+specialized and vertical nature of research work.
 
-The failure rate for PhD students is typically very high (not everyone gets
-to the end of the line successfully) thus it is crucial to find an advisor
-whose interests match yours and **a person who you feel comfortable working
-with**. 
+The failure rate for PhD students is typically very high (not everyone gets to
+the end of the line successfully) thus it is crucial to find an advisor whose
+interests match yours and **a person who you feel comfortable working with**. 
 
 ## My style of supervision
 If you want to work with me you need to have a theoretically-inclined mindset. I
@@ -70,11 +84,24 @@ the risk** that  there is a mistmatch between your interests and the ones of you
 supervisor. 
 
 What I am looking for is not someone who knows everything from the ground up,
-but someone who possesses the **ability and willingness to learn** new bits of mathematics and the **emotional intelligence**, **awareness** and **social capacity** to work with other people as well as being willing follow the lead of the supervisor. 
+but someone who possesses the **ability and willingness to learn** new bits of
+mathematics and the **emotional intelligence**, **awareness** and **social
+capacity** to work with other people as well as being willing follow the lead of
+the supervisor. 
 
-Independence is also a valuable skill and if you are willing to pursue your own ideas within these topics you are welcome to do so. I will guide you in any way I can, but beware that the more you stray away from your supervisor's research topics the less they can be useful for the attainment of your degree. 
+Independence is also a valuable skill and if you are willing to pursue your own
+ideas within these topics you are welcome to do so. I will guide you in any way
+I can, but beware that the more you stray away from your supervisor's research
+topics the less they can be useful for the attainment of your degree. 
 
-As a last remark, over the the past few years, we've discovered that remote work brings valuable flexibility and supports a more sustainable lifestyle by avoiding unnecessary travel. Nevertheless, as we strive to maintain flexibility and adopt online meetings when suitable, I'd like to emphasize the significance of **being physically present at the office** during working hours. This is because active engagement in the daily research environment not only **nurtures creativity** and **sparks new ideas**, but also plays a significant and fulfilling role in the pursuit of a PhD.
+As a last remark, over the the past few years, we've discovered that remote work
+brings valuable flexibility and supports a more sustainable lifestyle by
+avoiding unnecessary travel. Nevertheless, as we strive to maintain flexibility
+and adopt online meetings when suitable, I'd like to emphasize the significance
+of **being physically present at the office** during working hours. This is
+because active engagement in the daily research environment not only **nurtures
+creativity** and **sparks new ideas**, but also plays a significant and
+fulfilling role in the pursuit of a PhD.
 
 ## The application process
 The application process goes via the School of Computing where you are required
