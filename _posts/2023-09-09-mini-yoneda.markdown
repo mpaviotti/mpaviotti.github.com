@@ -14,17 +14,16 @@ $$
 $$
 
 The task is to give a semantic interpretation $$[\![ \cdot ]\!]$$ for the language by
-induction on the typing judgment $\Gamma \vdash t : A$ such that terms are
+induction on the typing judgment $$\Gamma \vdash t : A$$ such that terms are
 interpreted as morphisms $$[\![\Gamma ]\!] \xrightarrow{[\![ t ]\!]} [\![ A ]\!]$$, assuming
 for course $$[\![ \cdot ]\!]$$ is also defined separately for contexts and types.
 
-In order to interpret the rule above, as mentioned above, we do induction
-on the typing judgment so that, by induction, we know there exists a morphism
-$$[\![ \Gamma ]\!] \xrightarrow{[\![ t ]\!]} [\![ A ]\!]$$ and we have to construct a morphism
+We interpret the rule above we do induction
+on the typing judgment. Thus we assume there exists a morphism
+$$[\![ \Gamma ]\!] \xrightarrow{[\![ t ]\!]} [\![ A ]\!]$$ and we construct a morphism
 $$[\![ \Gamma ]\!] \xrightarrow{[\![ \textsf{R} ]\!] } [\![ B ]\!]$$. 
 
-In the remainder of
-this section we remove the semantics brackets for simplicity, for example,
+For simplicity we remove the semantics brackets, for example,
 assuming $$A$$ be interpretation of $$[\![ A ]\!]$$, $$t : \Gamma \to A$$ the
 interpretation of $$t$$ an so on.
 
