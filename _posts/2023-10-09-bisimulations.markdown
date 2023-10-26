@@ -20,7 +20,7 @@ Now the *trace semantics* of the CCS processes can be defined by a function
 
 $$[\![ \cdot ]\!] : \text{CCS} \to \mathcal{P}_\text{fin}(\text{Str } L) $$
 
-where $L$ is the finite set of actions and, for a generic set $A$, the set
+where $$L$$ is the finite set of actions and, for a generic set $$A$$, the set
 $$\text{Str } A = 1 + A \times \text{Str }A $$ is the set of possibly finite
 streams over a set $$A$$. 
 
@@ -35,7 +35,7 @@ However, consider the relation $$P$$ *simulates* $$Q$$ which is stated as
 $$ P \lesssim Q \Leftrightarrow \forall P'. \text{ if } P \xrightarrow{a} P'
 \text{ then  } \exists Q'. Q \xrightarrow{a} Q' \text{ s.t. } P' \lesssim Q'$$
 
-Now the bisimulation relation can be defined as $$P \approx Q \Leftrightarrow P
+Now the *bisimulation* relation can be defined as $$P \approx Q \Leftrightarrow P
 \lesssim Q \text{ and } Q \lesssim P$$. 
 
 The above example is a standard example in concurrency theory that shows that
