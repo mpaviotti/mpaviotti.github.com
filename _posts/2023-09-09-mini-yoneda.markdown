@@ -27,19 +27,19 @@ For simplicity we remove the semantics brackets, for example,
 assuming $$A$$ be interpretation of $$[\![ A ]\!]$$, $$t : \Gamma \to A$$ the
 interpretation of $$t$$ an so on.
 
-In this situation it can be quite tricky sometimes to figure out what this
-morphism should be since there is some plumming needed to pass around the
+Back to the problem we are trying to solve. It can be quite tricky sometimes to figure out what the semantics of $$\textsf{R}(t)$$ are since there is some plumming needed to pass around the
 context. A particular instantiation of the Yoneda lemma states that given a
-morphism $$t : \Gamma \xrightarrow{t} A$$ and a morphism $$R : A \to B$$ there is a
-canonical way to construct a morphism $$\Gamma \xrightarrow{R(t)} B$$.
+morphism $$t : \Gamma \xrightarrow{t} A$$ and a morphism $$R : A \to B$$ there
+is a canonical way to construct a morphism $$\Gamma \xrightarrow{R(t)} B$$.
 
-To show this we instantiate the contravariant Yoneda lemma
-by setting $$F = \mathbb{C}(-, B)$$. Then for all objects $$A : \mathbb{C}^{\text{op}}$$ we have
+To show this we instantiate the contravariant Yoneda lemma by setting $$F =
+\mathbb{C}(-, B)$$. Then for all objects $$A : \mathbb{C}^{\text{op}}$$ we have
 
 $$
   \mathbb{C}(A, B) \cong \mathbb{C}(-, A) \xrightarrow{\cdot} \mathbb{C}(-, B)
 $$
 
-Let $$R : A \to B$$ be the interpretation of $$\textsf{R}$$ then, one side of the
-isomorphism is $$\phi (\textsf{R},t) = F(t)(\textsf{R}) = \mathbb{C}(t, B)(\textsf{R})$$.  In
-other words, the interpretation of $$\textsf{R}(t)$$ is simply $$\textsf{R} \circ t$$.
+Let $$R : A \to B$$ be the interpretation of $$\textsf{R}$$ then, one side of
+the isomorphism is $$\phi (\textsf{R},t) = F(t)(\textsf{R}) = \mathbb{C}(t,
+B)(\textsf{R})$$.  In other words, the interpretation of $$\textsf{R}(t)$$ is
+simply $$\textsf{R} \circ t$$.
