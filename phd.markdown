@@ -6,17 +6,7 @@ title: So you want to get a PhD ...
 If you are here you are probably considering getting a PhD in Theoretical Computer Science. 
 While a think this is a great idea(!) I would like you to take some time reading this page to make sure you understand the **advantages as well** as the **risks** involved in getting into a PhD program.      
 
-First of all, it is important to be aware that pursuing a PhD is in stark
-contrast to obtaining a B.Sc. or M.Sc. degree. In the case of a BSc examination,
-success typically involves diligent study from textbooks or lecture notes,
-followed by passing the final exam.
-
-However, achieving a PhD requires an entirely distinct level of dedication and
-motivation. In fact, the requirements of a PhD include producing and publishing
-groundbreaking, pertinent, and rigorously sound research in significant
-international venues, including conferences and journals.
-
-That is why getting a doctorate could be one of your **biggest life achievements** and the
+Getting a doctorate could be one of your **biggest life achievements** and the
 most rewarding time of your life. But this is provided you can actually make constant
 progress throughout and make it to the end of the line. Otherwise, it can turn
 into one of your worst nightmares, a long-winded tunnel in which you cannot see
