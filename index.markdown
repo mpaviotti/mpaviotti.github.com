@@ -9,7 +9,7 @@ title: Short bio
 style="float:left;width:150px;height:150px;padding:3px 5px;border:1.5px solid
 #ccc;margin:20px;"> 
 
-I am a Lecturer (Assistant Professor) within the [School of
+I am an Assistant Professor (Lecturer) within the [School of
 Computing](https://www.kent.ac.uk/computing) at [University of Kent
 (U.K.)](https://www.kent.ac.uk). 
 
@@ -38,8 +38,7 @@ theory.
 ---
 
 ### PhD Vacancies
-I am looking for a PhD student to work on topics which include, but not limited
-to, category theory, type theory and functional programming.
+I am looking for a PhD student to work on category theory, type theory and functional programming.
 
 Take a look at this [page]({% link phd.markdown %}) for more info.
 
