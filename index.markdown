@@ -45,6 +45,7 @@ Take a look at this [page]({% link phd.markdown %}) for more info.
 If you're interested please reach out to me!
 
 ### News
+- **March 2024**: [Submission](/assets/papers/itp23.pdf) to ITP 24 on Mechanising Recursion Schemes with David Castro-Perez and Michael Vollmer. 
 - **September 2023:** Riccardo Bianchini visits the Granule Project 
 - **September 2023:** [Dr. Laura Titolo](https://lauratitolo.github.io) (NASA Formal Methods, Langley USA) visits the PLAS group.
 - **July 2023:** I am co-supervising Victoria Vollmer together with Dominic Orchard. Her thesis focusses on multicategories for linear type theories. 
