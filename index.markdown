@@ -45,6 +45,7 @@ Take a look at this [page]({% link phd.markdown %}) for more info.
 If you're interested please reach out to me!
 
 ### News
+- **April 2024**: The notes for the Kent Category Theory Seminars are not [online](/assets/papers/intro-cat24.pdf).
 - **April 2024**: I am organising SREPLS and the Concurrency Workshop in Kent. [Website](https://cw-srepls-24.github.io) [Call for Talks](/assets/srepls24.txt).
 - **March 2024**: [Submission](/assets/papers/itp24.pdf) to ITP 24 on Mechanising Recursion Schemes with David Castro-Perez and Michael Vollmer. 
 - **September 2023:** Riccardo Bianchini visits the Granule Project 
