@@ -31,7 +31,11 @@ The list of publications has been automatically generated from this [bibtex file
 <div id="bibtex_display"></div>
 
 ## Notes
-  <span class="title" style="font-weight: bold;">Notes on Kan Extensions and Monads</span><br/>
+  <span class="title" style="font-weight: bold;">Notes for the Kent Category Theory Seminars</span><br/>
+  <span class="author">Dominic Orchard and Marco Paviotti</span><br/>
+  <span class="journal" style="font-style: italic; font-size:80%">Notes</span>, <span class="year" style="font-style: italic; font-size:80%">2023</span>. <br> [<a href="/assets/papers/intro-cat24.pdf" class="url">pdf</a>]
+
+<span class="title" style="font-weight: bold;">Notes on Kan Extensions and Monads</span><br/>
   <span class="author">Marco Paviotti</span><br/>
   <span class="journal" style="font-style: italic; font-size:80%">Notes</span>, <span class="year" style="font-style: italic; font-size:80%">2023</span>. <br> [<a href="/assets/papers/kan-notes23.pdf" class="url">pdf</a>]
 
