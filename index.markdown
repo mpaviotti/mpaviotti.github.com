@@ -45,6 +45,7 @@ Take a look at this [page]({% link phd.markdown %}) for more info.
 If you're interested please reach out to me!
 
 ### News
+- **July 2024**: I am organising [SREPLS15 and The Concurrency Workshop](https://cw-srepls-24.github.io) in Kent which will happen on the 18/19 of July. Invited Speakers are Nick Wu (Imperial College London) and Peter O'Hearn (UCL) 
 - **April 2024**: The notes for the Kent Category Theory Seminars are now [online](/assets/papers/intro-cat24.pdf).
 - **April 2024**: I am please to announce that Kent will be hosing SREPLS and the Concurrency Workshop on the 18th and 19th of July. Please visit the [website](https://cw-srepls-24.github.io) for more info. Call for Talks can be found [here](/assets/srepls24.txt).
 - **March 2024**: [Submission](/assets/papers/itp24.pdf) to ITP 24 on Mechanising Recursion Schemes with David Castro-Perez and Michael Vollmer. 
