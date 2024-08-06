@@ -4,7 +4,7 @@ permalink: /phd-statement/
 title: So you want to get a PhD ...  
 ---
 If you are here you are probably considering getting a PhD in Theoretical Computer Science. 
-While a think this is a great idea(!) I would like you to take some time reading this page to make sure you understand the **advantages as well** as the **risks** involved in getting into a PhD program.      
+While a think this is a great idea(!) I would like you to take some time reading this page to make sure you understand the **advantages** as well as the **risks** involved in getting into a PhD program.      
 
 ## What is a PhD
 A PhD is the highest academic degree awarded by universities acknowledging that
