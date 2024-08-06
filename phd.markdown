@@ -6,96 +6,90 @@ title: So you want to get a PhD ...
 If you are here you are probably considering getting a PhD in Theoretical Computer Science. 
 While a think this is a great idea(!) I would like you to take some time reading this page to make sure you understand the **advantages as well** as the **risks** involved in getting into a PhD program.      
 
-Getting a doctorate could be one of your **biggest life achievements** and the
-most rewarding time of your life. But this is provided you can actually make constant
-progress throughout and make it to the end of the line. Otherwise, it can turn
-into one of your worst nightmares, a long-winded tunnel in which you cannot see
-the light at the end of it. 
+## What is a PhD
+A PhD is the highest academic degree awarded by universities acknowledging that
+you possess the skills and knowledge to engage with other international experts
+in your field. To earn a PhD, you must demonstrate that you possess a **deep
+knowledge** of the field  as well as having made a **significant** and
+**original** contribution to your area of study.
+
+It could be one of your **biggest life achievements** and the
+most rewarding time of your life. But this is provided you can actually make
+constant progress throughout and make it to the end of the line. Otherwise, it
+can turn into one of your worst nightmares, a long-winded tunnel in which you
+cannot see the light at the end of it. 
 
 A PhD is, in my opinion, a 2-players game and the success of the game is
 essentially based on the **relationship** between the two players, the student
-and the supervisor. This relations is more likely to work out when student's and
-supervisor's interests are tightly aligned. Similarly, it can
-deteriorate very quickly if there is no common interest. Though, identifying common areas of
-research can be quite tricky even for senior academics given the highly
-specialized and vertical nature of research work.
+and the supervisor. This point deserves more in-depth discussion, but as far as
+the PhD in Europe is concerned, I would go as far as saying that the supervisor
+is the most important part of your PhD.
 
-The failure rate for PhD students is typically very high (not everyone gets to
-the end of the line successfully) thus it is crucial to find an advisor whose
-interests match yours and **a person who you feel comfortable working with**. 
+The failure rate for PhD students is typically very high. I have run some
+calculations based on my own personal experience and the numbers tell me the
+**failure rate** can be in certain institutions **as high as 50%**. Thus it is
+crucial to find an advisor whose interests match yours and **a person who you
+feel comfortable working with**. 
 
-## My style of supervision
-If you want to work with me you need to have a theoretically-inclined mindset. I
-like the following citation: 
+## My Research
+It is said (Dovier and Giacobazzi, 2020) that every scientific discipline fully defines itself when it is framed by a theory that highlights its limits and potential. For computer science, this happened in the 1930s, during a vibrant cultural and scientific period that addressed the
+foundations of mathematics, physics, and biology, long before the advent of the
+electronic computer.
+
+Early computer science was strongly influenced by the work of mathematicians
+such as Kurt Gödel,  Alan Turing, John von Neumann and Alonzo Church. There
+continues to be a useful interchange of ideas between the two fields in areas
+such as mathematical logic, category theory, domain theory, and algebra. Some,
+including myself, consider computer science to have a much closer relationship
+with mathematics than many other scientific disciplines, with some saying that 
+
+> Computer Science is the Foundation of Mathematics (cit. Bob Harper)
+
+Computer Science is, in fact, a branch of mathematics which studies the
+foundations of computability. It has little to do with computers. The fact that
+it has the word "Computer" attached to it is an unfortunate coincidence (or a
+cunning marketing device). Hence the following citation:
 
 > Computer Science Is No More About Computers Than Astronomy Is About Telescopes (cit. Edsger W. Dijkstra)
 
-Computer Science is in fact a branch of mathematics that studies the foundations
-of computability. It **has little to do with computers**. The fact that it is
-has the word "Computer" attached to it is an unfortunate coincidence (or a
-cunning marketing device). 
+Category Theory, developed later in the 1940s as part of this foundational
+exploration, has since become a crucial framework for understanding and
+formalizing the mathematical underpinnings of computer science.
 
-Ideally, in order to do a PhD with me you have to be interested in (or be
-willing to learn) Category Theory, Functional Programming and/or Type Theory.
-[Here]({% link research.markdown %}) you can find more information about my
-research.
+My research focuses in particular, in applications of category theory to (functional) programming languages, logics and type theories (e.g. Agda). 
 
-Below you can find the list of topics I propose ordered from the most
-theoretical ones down to the more practical. Mind you, they all involve category
-theory, but category theory can be useful for doing foundational work (e.g. type
-theory and topos theory) as well as structuring functional programs (e.g.
-optimisation of Haskell programs).
+If you are interested in any of these topics or would like to learn more, please
+feel free to get in touch.
 
 
-- Guarded Recursion. 
-  - Lars Birkedal, Rasmus Ejlers Møgelberg, Jan Schwinghammer, Kristian Støvring. [First steps in synthetic guarded domain theory: step-indexing in the topos of trees.](https://arxiv.org/abs/1208.3596) Log. Methods Comput. Sci. 8(4) (2012)
-  - Marco Paviotti, Rasmus Ejlers Møgelberg, Lars Birkedal. [A Model of PCF in Guarded Type Theory.](http://www.itu.dk/people/mogel/papers/PCF-mfps2015.pdf) MFPS 2015.
+## My Style of Supervision and What you can Expect
+As a hands-on supervisor, I am flexible in my approach. I can provide close
+supervision if needed or give you the autonomy to work independently, depending
+on your preference.
 
-- Bialgebras 
-  - Bartek Klin. [Bialgebras for structural operational semantics: An introduction.](https://www.sciencedirect.com/science/article/pii/S0304397511002532) Theor. Comput. Sci. 412(38): 5043-5069 (2011)
-  - Daniele Turi, Gordon D. Plotkin. [Towards a Mathematical Operational Semantics.](https://homepages.inf.ed.ac.uk/gdp/publications/Math_Op_Sem.pdf) LICS 1997: 280-291
-
-- Recursion Schemes 
-  - Ralf Hinze, Nicolas Wu, Jeremy Gibbons. [Unifying structured recursion schemes.](https://research-information.bris.ac.uk/ws/portalfiles/portal/65842535/Nicolas_Wu_Unifying_Structured_Recursion_Schemes.pdf) ICFP 2013: 209-220
-  - Ralf Hinze, Nicolas Wu, Jeremy Gibbons. [Conjugate Hylomorphisms - Or: The Mother of All Structured Recursion Schemes.](https://dl.acm.org/doi/10.1145/2775051.2676989) POPL 2015: 527-538
-
-If you like any of these topics or you would like to learn more about this you
-are very welcome to get in touch. 
-
-If you do not like any of these topics you are also welcome to propose your own
-and I will judge whether these are of interest to me and if I am willing to work
-with you. 
-
-Beware, at the end of the day it is crucial that you find a topic that you are
-comfortable with and that **makes you tick**. 
-
-The process of writing a good **research proposal** (see below) is a good way to **minimise
-the risk** that  there is a mistmatch between your interests and the ones of your
-supervisor. 
+It is, however, important to understand that a PhD (in Europe) lasts for 3/4
+years, therefore it is crucial that you find a topic that you are comfortable
+with and that **makes you tick** so that you can make constant progress.
 
 What I am looking for is not someone who knows everything from the ground up,
 but someone who possesses the **ability and willingness to learn** new bits of
 mathematics and the **emotional intelligence**, **awareness** and **social
 capacity** to work with other people as well as being willing follow the lead of
-the supervisor. 
+the supervisor. **Independence** is also a valuable skill and if you are willing
+to pursue your own ideas within these topics you are welcome to do so.
 
-Independence is also a valuable skill and if you are willing to pursue your own
-ideas within these topics you are welcome to do so. I will guide you in any way
-I can, but beware that the more you stray away from your supervisor's research
-topics the less they can be useful for the attainment of your degree. 
-
-As a last remark, over the the past few years, we've discovered that remote work
-brings valuable flexibility and supports a more sustainable lifestyle by
-avoiding unnecessary travel. Nevertheless, as we strive to maintain flexibility
-and adopt online meetings when suitable, I'd like to emphasize the significance
-of **being physically present at the office** during working hours. This is
-because active engagement in the daily research environment not only **nurtures
-creativity** and **sparks new ideas**, but also plays a significant and
-fulfilling role in the pursuit of a PhD.
+On flexible working options. Over the the past few years,
+we've discovered that remote work brings valuable flexibility and supports a
+more sustainable lifestyle by avoiding unnecessary travel. Nevertheless, as we
+strive to maintain flexibility and adopt online meetings when suitable, I'd like
+to emphasize the significance of **being physically present at the office**
+during working hours. This is because active engagement in the daily research
+environment not only **nurtures creativity** and **sparks new ideas**, but also
+plays a significant and fulfilling role in the pursuit of a PhD.
 
 ## The application process
 The application process goes via the School of Computing where you are required
-to write a mini essay (Research Proposal, 5/6 pages at least) about the research
+to write a mini essay (**Research Proposal**, ~5 pages) about the research
 you wish to conduct under my supervision. One of the purposes of this essay is
 to understand what your interests are and if I can be a good supervisor to you.
 
@@ -109,8 +103,6 @@ through it, but **I cannot write it for you**.
 Applications usually open around January and close at the beginning of March, so
 keep an eye out. It will take time to write a good proposal so **do not be
 late** and **reach out to me earlier** rather than later. 
-
-[Here](/assets/phd-advert-2023.txt)'s the advert for 2023 scholarships. 
 
 In particular, check out [this
 page](https://www.kent.ac.uk/courses/postgraduate/283/computer-science) for info
