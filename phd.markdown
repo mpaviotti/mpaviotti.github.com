@@ -63,29 +63,30 @@ feel free to get in touch.
 
 
 ## My Style of Supervision and What you can Expect
-As a hands-on supervisor, I am flexible in my approach. I can provide close
-supervision if needed or give you the autonomy to work independently, depending
-on your preference.
+As a supervisor, I take a hands-on approach with close guidance when necessary
+or allowing you the space to work independently, depending on what you feel most
+comfortable with.
 
-It is, however, important to understand that a PhD (in Europe) lasts for 3/4
-years, therefore it is crucial that you find a topic that you are comfortable
-with and that **makes you tick** so that you can make constant progress.
+It is worth noting that a PhD in Europe typically spans 3 to 4 years, so it is
+essential to choose a topic that genuinely interests you and keeps you
+motivated, as this will help you maintain steady progress throughout your
+journey.
 
-What I am looking for is not someone who knows everything from the ground up,
-but someone who possesses the **ability and willingness to learn** new bits of
-mathematics and the **emotional intelligence**, **awareness** and **social
-capacity** to work with other people as well as being willing follow the lead of
-the supervisor. **Independence** is also a valuable skill and if you are willing
-to pursue your own ideas within these topics you are welcome to do so.
+What I am looking for is not someone who knows everything from the outset, but
+rather someone with the enthusiasm and capacity to learn new aspects of
+mathematics, coupled with the emotional intelligence and social skills to
+collaborate effectively with others, and the openness to follow guidance when
+needed. Independence is also highly valued, and if you are keen to pursue your
+own ideas within these areas, I am more than happy to support that.
 
-On flexible working options. Over the the past few years,
-we've discovered that remote work brings valuable flexibility and supports a
-more sustainable lifestyle by avoiding unnecessary travel. Nevertheless, as we
-strive to maintain flexibility and adopt online meetings when suitable, I'd like
-to emphasize the significance of **being physically present at the office**
-during working hours. This is because active engagement in the daily research
-environment not only **nurtures creativity** and **sparks new ideas**, but also
-plays a significant and fulfilling role in the pursuit of a PhD.
+Regarding flexible working options, we have learned over the past few years that
+remote work offers valuable flexibility and supports a more sustainable
+lifestyle by reducing unnecessary travel. While we continue to embrace this
+flexibility and use online meetings when appropriate, I encourage students  to
+engage with their academic environment by being present in the office during
+working hours.  This is because I believe engaging actively in the research
+environment not only fosters creativity and the generation of new ideas but also
+adds a deeply fulfilling dimension to the PhD experience.
 
 ## The application process
 The application process goes via the School of Computing where you are required
