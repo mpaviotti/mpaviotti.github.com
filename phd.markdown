@@ -3,13 +3,14 @@ layout: page
 permalink: /phd-statement/
 title: So you want to get a PhD ...  
 ---
-If you are here you are probably considering getting a PhD in Theoretical Computer Science. 
-While a think this is a great idea(!) I would like you to take some time reading this page to make sure you understand the **advantages** as well as the **risks** involved in getting into a PhD program.      
+If you are here you are probably considering getting a PhD in Theoretical
+Computer Science. While a think this is a great idea(!) I would like you to take some time reading this page to make sure you understand the **advantages** as well as the **risks** involved in getting into a PhD program.      
 
 ## What is a PhD
-A PhD is the highest academic degree awarded by universities acknowledging that
-you possess the skills and knowledge to engage with other international experts
-in your field. To earn a PhD, you must demonstrate that you possess a **deep
+A PhD is the highest academic degree awarded by universities which only 2% of
+the world's population possesses. When awarded, a PhD is acknowledging that you
+possess the skills and knowledge to engage with other international experts in
+your field. To earn one, you must demonstrate that you possess a **deep
 knowledge** of the field  as well as having made a **significant** and
 **original** contribution to your area of study.
 
@@ -27,14 +28,18 @@ is the most important part of your PhD.
 
 The failure rate for PhD students is typically very high. I have run some
 calculations based on my own personal experience and the numbers tell me the
-**failure rate** can be in certain institutions **as high as 50%**. Thus it is
-crucial to find an advisor whose interests match yours and **a person who you
+**failure rate** can be in certain institutions **as high as 50%**. Of these,
+only about 3.5% land with a permanent position in academic research. 
+
+Thus it is crucial to find an advisor whose interests match yours and **a person who you
 feel comfortable working with**. 
 
 ## My Research
-It is said (Dovier and Giacobazzi, 2020) that every scientific discipline fully defines itself when it is framed by a theory that highlights its limits and potential. For computer science, this happened in the 1930s, during a vibrant cultural and scientific period that addressed the
-foundations of mathematics, physics, and biology, long before the advent of the
-electronic computer.
+It is said (Dovier and Giacobazzi, 2020) that every scientific discipline fully
+defines itself when it is framed by a theory that highlights its limits and
+potential. For computer science, this happened in the 1930s, during a vibrant
+cultural and scientific period that addressed the foundations of mathematics,
+physics, and biology, long before the advent of the electronic computer.
 
 Early computer science was strongly influenced by the work of mathematicians
 such as Kurt Gödel,  Alan Turing, John von Neumann and Alonzo Church. There
@@ -56,7 +61,8 @@ Category Theory, developed later in the 1940s as part of this foundational
 exploration, has since become a crucial framework for understanding and
 formalizing the mathematical underpinnings of computer science.
 
-My research focuses in particular, in applications of category theory to (functional) programming languages, logics and type theories (e.g. Agda). 
+My research focuses in particular, in applications of category theory to
+(functional) programming languages, logics and type theories (e.g. Agda). 
 
 If you are interested in any of these topics or would like to learn more, please
 feel free to get in touch.
