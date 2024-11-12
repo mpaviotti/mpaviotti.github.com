@@ -23,7 +23,7 @@ cannot see the light at the end of it.
 A PhD is, in my opinion, a 2-players game and the success of the game is
 essentially based on the **relationship** between the two players, the student
 and the supervisor. This point deserves more in-depth discussion, but as far as
-the __PhD in Europe_ is concerned, I would go as far as saying that the
+the _PhD in Europe_ is concerned, I would go as far as saying that the
 supervisor is the most important part of your PhD. Thus it is crucial to find an
 advisor whose interests match yours and **a person who you feel comfortable
 working with**. 
