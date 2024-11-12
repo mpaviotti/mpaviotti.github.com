@@ -23,16 +23,8 @@ cannot see the light at the end of it.
 A PhD is, in my opinion, a 2-players game and the success of the game is
 essentially based on the **relationship** between the two players, the student
 and the supervisor. This point deserves more in-depth discussion, but as far as
-the PhD in Europe is concerned, I would go as far as saying that the supervisor
-is the most important part of your PhD.
-
-The failure rate for PhD students is typically very high. I have run some
-calculations based on my own personal experience and the numbers tell me the
-**failure rate** can be in certain institutions **as high as 50%**. Of these,
-only about 3.5% land with a permanent position in academic research. 
-
-Thus it is crucial to find an advisor whose interests match yours and **a person who you
-feel comfortable working with**. 
+the __PhD in Europe_ is concerned, I would go as far as saying that the supervisor
+is the most important part of your PhD. Thus it is crucial to find an advisor whose interests match yours and **a person who you feel comfortable working with**. 
 
 ## My Research
 It is said (Dovier and Giacobazzi, 2020) that every scientific discipline fully
