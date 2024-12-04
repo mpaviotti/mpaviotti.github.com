@@ -5,7 +5,6 @@ title: Teaching
 ---
 
 ## Current Modules
-- 2024-2025. [COMP8481 -- Solving Problems with Data and Text](https://www.kent.ac.uk/courses/modules/module/COMP8481). 
 - 2023-2025. [COMP6610 -- Theory and Practice of Concurrency](https://www.kent.ac.uk/courses/modules/module/CO661).
 - 2023-2025. [COMP6630 -- Programming Languages: Applications and Design](https://www.kent.ac.uk/courses/modules/module/CO663).  
 - 2024-2025. [COMP8220 -- Introduction to Quantum Computing & Quantum Cryptography](https://www.kent.ac.uk/courses/modules/module/CO822).
